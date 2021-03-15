@@ -1,0 +1,51 @@
+,CUSTID,NAME,AGE,GENDER,PINCODE,STATE,CITY,ADDRESS,PHONE NO.,EMAIL ID,VEHICAL NO.,COMPANY NAME,MODEL,TYPE,PRICE
+0,0,Corey,34,M,29504,Chhattisgarh,Alappuzha,700 Gurgaon St. Alappuzha Chhattisgarh 29504,6368171673,corey@icloud.com,BR-69-MG-917,Maruti Suzuki,XL6-2019,Petrol,549742.3013149874
+1,1,Gommy,27,F,68506,Haryana,Dhule,661 Allahabad St. Dhule Haryana 68506,2553647854,gommy@Yahoo.com,AP-46-SD-8352,Maruti Suzuki,Dzire-2017,Diesel,1312763.4421697948
+2,2,Laura,39,M,40545,Uttar Pradesh,Mirzapur,546 Katihar St. Mirzapur Uttar Pradesh 40545,2698119762,laura@Gmail.com,UP-76-CD-7158,Maruti Suzuki,Ciaz-2014,Diesel,399001.20967852493
+3,3,Kurt,43,F,71235,Mizoram,Gurgaon,133 Bhimavaram St. Gurgaon Mizoram 71235,4970981380,kurt@thunderbird.com,PY-39-XD-4129,Maruti Suzuki,Ignis-2017,Petrol,1130341.1502935628
+4,4,Mike,50,M,61445,Hyderabad,Surendranagar Dudhrej,441 Alappuzha St. Surendranagar Dudhrej Hyderabad 61445,8630993066,mike@protonmail.com,UK-58-OB-5691,Maruti Suzuki,Dzire-2017,Petrol,1158632.2171653004
+5,5,Pablo,59,M,28737,Bihar,Mehsana,531 Deoghar St. Mehsana Bihar 28737,8889692653,pablo@protonmail.com,MH-78-TH-169,Maruti Suzuki,Wagon R-1999,Diesel,1298202.004454834
+6,6,Vijay,54,M,70212,Meghalaya,Parbhani,476 Durgapur St. Parbhani Meghalaya 70212,6733567293,vijay@mail.com,WB-82-OA-3597,Maruti Suzuki,Vitara Brezza-2016,Diesel,526826.3070988038
+7,7,Smith,33,M,68456,Nagaland,Jorhat,376 Panipat St. Jorhat Nagaland 68456,5293931769,smith@Outlook.com,AN-11-GE-5019,Maruti Suzuki,XL6-2019,Diesel,477827.02974025335
+8,8,Vector,41,F,79669,Bihar,Vasai-Virar,834 Jaunpur St. Vasai-Virar Bihar 79669,7369915607,vector@rediffmail.com,BR-47-TP-4830,Maruti Suzuki,Ciaz-2014,Diesel,1350195.0405452214
+9,9,Asif,27,F,20001,Manipur,Ballia,654 Amravati St. Ballia Manipur 20001,3791979375,asif@thunderbird.com,TS-23-KR-1210,Maruti Suzuki,Ciaz-2014,Diesel,891746.6775901192
+10,10,Siraj,24,M,83546,Kerala,Panchkula,448 Davanagere St. Panchkula Kerala 83546,8141485763,siraj@zoho.com,LA-52-MP-9316,Maruti Suzuki,Ertiga-2012,Diesel,570159.6607196507
+11,11,Salamanca,33,F,67784,Andhra Pradesh,Faridabad,390 Firozabad St. Faridabad Andhra Pradesh 67784,2355259691,salamanca@Yahoo.com,RJ-4-WL-7910,Maruti Suzuki,Ciaz-2014,Diesel,655318.342498966
+12,12,Nicolas,39,M,66597,Mizoram,Faridabad,607 Akola St. Faridabad Mizoram 66597,5301018310,nicolas@protonmail.com,TS-84-BL-6616,Maruti Suzuki,S-Cross-2015,Diesel,557718.6678444416
+13,13,Virat,20,M,68441,West Bengal,Bhiwandi,498 Chinsurah St. Bhiwandi West Bengal 68441,4951116738,virat@protonmail.com,AN-2-ZP-4117,Maruti Suzuki,Alto-2000,Diesel,788135.0648900094
+14,14,Sachin,57,M,47945,Manipur,Bulandshahr,221 Moradabad St. Bulandshahr Manipur 47945,3953046499,sachin@mail.com,CG-46-ER-9640,Maruti Suzuki,Ciaz-2014,Petrol,471961.4657924517
+15,15,Shewag,25,F,92473,Assam,Imphal,150 Guwahati St. Imphal Assam 92473,5878235936,shewag@yourdomain.com,AP-73-RX-3143,Maruti Suzuki,Celerio-2014,Diesel,726733.1272337877
+16,16,Gomez,49,F,13078,Gujarat,Parbhani,817 Aizawl St. Parbhani Gujarat 13078,7464427726,gomez@yourdomain.com,NL-7-AE-7660,Maruti Suzuki,S-Cross-2015,Diesel,898616.0516567846
+17,17,Jeremy,28,M,96664,Tripura,Deoghar,680 Bhiwandi St. Deoghar Tripura 96664,2412699443,jeremy@thunderbird.com,AR-73-AA-1051,Maruti Suzuki,Swift-2005,Diesel,1215861.9409890058
+18,18,Ramesh,52,F,88307,Haryana,Raebareli,373 Bhatpara St. Raebareli Haryana 88307,4082612183,ramesh@Gmail.com,JK-69-TI-740,Maruti Suzuki,Ciaz-2014,Diesel,711337.769973743
+19,19,Virat,32,F,63532,Chhattisgarh,Patiala,775 Tiruppur St. Patiala Chhattisgarh 63532,7534471048,virat@Gmail.com,CG-36-SO-3179,Maruti Suzuki,XL6-2019,Diesel,432664.25663462793
+20,20,Jareev,28,M,40641,Maharashtra,Malda,872 Udupi St. Malda Maharashtra 40641,3343715524,jareev@zoho.com,OD-43-CK-4256,Maruti Suzuki,XL6-2019,Petrol,663879.3294162959
+21,21,Rishab,53,F,63727,Kerala,Salem,900 Rewa St. Salem Kerala 63727,2733429445,rishab@icloud.com,WB-69-NE-2160,Maruti Suzuki,Ciaz-2014,Diesel,601410.5912433552
+22,22,Maggie,43,M,47708,Chhattisgarh,Kulti,214 Sirsa St. Kulti Chhattisgarh 47708,7086582223,maggie@Outlook.com,AS-100-CW-70,Maruti Suzuki,S-Presso-2019,Petrol,809065.9823465585
+23,23,Lakshuman,32,F,44868,Tamil Nadu,Bhubaneswar,655 Gudivada St. Bhubaneswar Tamil Nadu 44868,9969144608,lakshuman@thunderbird.com,UK-32-BL-912,Maruti Suzuki,S-Presso-2019,Diesel,1145733.5888912769
+24,24,Robert,53,F,86931,Tamil Nadu,Raichur,396 Shahjahanpur St. Raichur Tamil Nadu 86931,6391562120,robert@rediffmail.com,TR-63-LG-7281,Maruti Suzuki,Dzire-2017,Diesel,519290.3369498758
+25,25,Corey,20,M,25408,Jharkhand,Jodhpur,579 Ozhukarai St. Jodhpur Jharkhand 25408,8227202407,corey@Yahoo.com,NL-10-DE-6440,Maruti Suzuki,Ertiga-2012,Petrol,905035.8210067515
+26,26,Rahul,20,M,34037,Hyderabad,Siwan[32],197 Narasaraopet St. Siwan[32] Hyderabad 34037,7238964447,rahul@yourdomain.com,GJ-70-IF-7064,Maruti Suzuki,Baleno-2015,Diesel,1025686.4538974492
+27,27,Jennifer,34,F,33619,Meghalaya,Bulandshahr,953 Bhiwani St. Bulandshahr Meghalaya 33619,7751563249,jennifer@Gmail.com,MH-36-QJ-6215,Maruti Suzuki,Ignis-2017,Diesel,802837.6778937238
+28,28,Ishant,47,F,28861,Bihar,Bhiwandi,210 Karimnagar St. Bhiwandi Bihar 28861,6729964064,ishant@Yahoo.com,JK-28-MB-6204,Maruti Suzuki,Ignis-2017,Petrol,696411.0887180377
+29,29,Lakshuman,38,F,16227,Mizoram,Siwan[32],164 Mau St. Siwan[32] Mizoram 16227,7009782163,lakshuman@zoho.com,TS-28-ZQ-4445,Maruti Suzuki,Swift-2005,Diesel,1034650.8932110276
+30,30,Wilam,28,M,18637,Karnataka,Patiala,734 Bharatpur St. Patiala Karnataka 18637,2310772617,wilam@Gmail.com,HR-94-ET-8277,Maruti Suzuki,Dzire-2017,Petrol,850088.976994961
+31,31,Raju,28,F,37927,Goa,Gandhinagar,706 Dhanbad St. Gandhinagar Goa 37927,7916736332,raju@protonmail.com,ML-4-PC-1052,Maruti Suzuki,Alto-2000,Diesel,553893.733847176
+32,32,Salamanca,23,M,97137,Jharkhand,Guntur[13],954 Saharanpur St. Guntur[13] Jharkhand 97137,4430370112,salamanca@zoho.com,UP-82-CG-5943,Maruti Suzuki,Wagon R-1999,Petrol,1302767.3128411015
+33,33,Parvez,37,M,56938,Maharashtra,Tirupati[21][22],107 Mahbubnagar St. Tirupati[21][22] Maharashtra 56938,1709266538,parvez@Gmail.com,JH-56-JH-7380,Maruti Suzuki,Celerio-2014,Petrol,481840.5308141788
+34,34,Aqdas,37,M,77519,Chhattisgarh,Mirzapur,721 Jhansi St. Mirzapur Chhattisgarh 77519,3276506770,aqdas@thunderbird.com,MH-43-NF-9499,Maruti Suzuki,Vitara Brezza-2016,Diesel,1252929.6026559928
+35,35,Arjun,52,F,13887,Assam,Udaipur,252 Eluru[25] St. Udaipur Assam 13887,3761530524,arjun@Gmail.com,UP-85-YB-291,Maruti Suzuki,Dzire-2017,Petrol,966281.6179907167
+36,36,Neha,33,M,77543,Karnataka,Siliguri,378 Anand St. Siliguri Karnataka 77543,9778742851,neha@thunderbird.com,CG-71-WC-2480,Maruti Suzuki,S-Presso-2019,Diesel,843154.4272814789
+37,37,Barbara,24,F,81022,Telangana,Hapur,311 Yamunanagar St. Hapur Telangana 81022,8747624885,barbara@icloud.com,ML-56-ZL-1232,Maruti Suzuki,Baleno-2015,Petrol,859605.3726397854
+38,38,Arsalan,50,M,66268,Arunachal Pradesh,Malegaon,281 Mangalore St. Malegaon Arunachal Pradesh 66268,4254185474,arsalan@icloud.com,PB-50-EE-2944,Maruti Suzuki,Swift-2005,Petrol,754166.7747891746
+39,39,James,56,F,89889,Chhattisgarh,Anand,106 Aurangabad St. Anand Chhattisgarh 89889,5790028625,james@Yahoo.com,JK-98-ZM-6867,Maruti Suzuki,Dzire-2017,Petrol,746479.9573195903
+40,40,Corey,49,F,23025,Tripura,Karimnagar,764 Giridih St. Karimnagar Tripura 23025,9741800703,corey@Outlook.com,KL-73-GJ-1832,Maruti Suzuki,XL6-2019,Petrol,475133.5583274269
+41,41,Walter,41,M,90257,Haryana,Jammu[16],486 Pali St. Jammu[16] Haryana 90257,4579909349,walter@rediffmail.com,DD-83-MB-63,Maruti Suzuki,Dzire-2017,Petrol,1311447.5420599692
+42,42,Raju,33,F,17266,Rajasthan,Ujjain,467 Shimoga St. Ujjain Rajasthan 17266,6882959077,raju@Yahoo.com,OD-95-WR-1075,Maruti Suzuki,XL6-2019,Petrol,1163055.4361029805
+43,43,Nicolas,40,M,73757,Jharkhand,Kollam,976 Tadipatri St. Kollam Jharkhand 73757,4934460012,nicolas@Outlook.com,PB-87-HX-6634,Maruti Suzuki,S-Cross-2015,Petrol,995162.5524370832
+44,44,Moin,43,F,30826,Andhra Pradesh,Begusarai,121 Kakinada St. Begusarai Andhra Pradesh 30826,9406644048,moin@Yahoo.com,AR-21-SK-1828,Maruti Suzuki,S-Presso-2019,Diesel,963488.6623753364
+45,45,Pablo,37,M,62446,Madhya Pradesh,Alappuzha,861 Ramagundam[27] St. Alappuzha Madhya Pradesh 62446,7252653102,pablo@Outlook.com,UP-26-YK-5179,Maruti Suzuki,S-Presso-2019,Petrol,328910.4973170297
+46,46,Tom,23,F,42296,Rajasthan,Ghaziabad,996 Machilipatnam St. Ghaziabad Rajasthan 42296,5178727611,tom@Outlook.com,KL-15-TF-2251,Maruti Suzuki,S-Cross-2015,Petrol,918999.6346933781
+47,47,Lara,54,F,61694,Kerala,Navi Mumbai,950 Pallavaram St. Navi Mumbai Kerala 61694,6453831323,lara@icloud.com,UK-80-DP-9375,Maruti Suzuki,Dzire-2017,Diesel,459330.5323242201
+48,48,Parvez,29,M,14865,Hyderabad,Raipur,109 Ghaziabad St. Raipur Hyderabad 14865,9407185960,parvez@yourdomain.com,HR-6-DQ-817,Maruti Suzuki,Ertiga-2012,Diesel,1143467.9696105663
+49,49,Corey,24,M,79898,Arunachal Pradesh,Chinsurah,547 Muzaffarpur St. Chinsurah Arunachal Pradesh 79898,3016996973,corey@Outlook.com,GA-28-EP-7624,Maruti Suzuki,Baleno-2015,Diesel,1245304.04624533

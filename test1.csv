@@ -1,0 +1,501 @@
+,YEAR,VEHICLE ID,MANUFACTURING UNIT,MODEL,MAKE,TYPE,SALE,"REVENUE,Rs (in Crores)",EBIT
+0,2007,0,"Gurugram and Manesar, Gurgaon, Haryana.",Ignis-2017,Maruti Suzuki,Diesel,25607,32334.547548757688,2968.035519234463
+1,2020,1,"Becharaji, Mehsana, Gujarat.",Ciaz-2014,Maruti Suzuki,Diesel,82036,4941.9281528836,4397.644523132466
+2,2018,2,"Gurugram and Manesar, Gurgaon, Haryana.",Alto-2000,Maruti Suzuki,Petrol,27392,29953.92259550428,5936.771037533244
+3,2014,3,"Becharaji, Mehsana, Gujarat.",Ignis-2017,Maruti Suzuki,Diesel,31845,47857.61666466601,4542.891228431364
+4,2012,4,"Becharaji, Mehsana, Gujarat.",Vitara Brezza-2016,Maruti Suzuki,Diesel,60925,7371.859037307511,964.8818601770731
+5,2005,5,"Becharaji, Mehsana, Gujarat.",Swift-2005,Maruti Suzuki,Petrol,91047,35608.27763119389,6554.840627747026
+6,2021,6,"Gurugram and Manesar, Gurgaon, Haryana.",Ertiga-2012,Maruti Suzuki,Petrol,43892,4002.201049573171,3061.905662499811
+7,2009,7,"Gurugram and Manesar, Gurgaon, Haryana.",Wagon R-1999,Maruti Suzuki,Petrol,18190,49633.562624184124,-1464.0327709358219
+8,2017,8,"Gurugram and Manesar, Gurgaon, Haryana.",S-Cross-2015,Maruti Suzuki,Petrol,71535,37017.80754725417,5732.390705227348
+9,2011,9,"Becharaji, Mehsana, Gujarat.",Alto-2000,Maruti Suzuki,Diesel,60800,23118.888056078686,1941.031747493691
+10,2005,10,"Gurugram and Manesar, Gurgaon, Haryana.",Alto-2000,Maruti Suzuki,Diesel,57741,54789.27633264153,-1863.442024779219
+11,2008,11,"Gurugram and Manesar, Gurgaon, Haryana.",Wagon R-1999,Maruti Suzuki,Petrol,80799,24749.5121921459,5159.036677350919
+12,2021,12,"Gurugram and Manesar, Gurgaon, Haryana.",Ignis-2017,Maruti Suzuki,Petrol,21572,19582.03113846819,399.0745666584985
+13,2009,13,"Gurugram and Manesar, Gurgaon, Haryana.",Vitara Brezza-2016,Maruti Suzuki,Petrol,80765,29433.34401836253,1677.001658104452
+14,2012,14,"Gurugram and Manesar, Gurgaon, Haryana.",S-Cross-2015,Maruti Suzuki,Petrol,76631,66195.56404680262,1346.5196000347787
+15,2009,15,"Gurugram and Manesar, Gurgaon, Haryana.",XL6-2019,Maruti Suzuki,Diesel,69769,34383.663370015725,1779.347461388671
+16,2008,16,"Gurugram and Manesar, Gurgaon, Haryana.",Vitara Brezza-2016,Maruti Suzuki,Diesel,41819,75614.9858455205,746.6337146726746
+17,2005,17,"Gurugram and Manesar, Gurgaon, Haryana.",Ignis-2017,Maruti Suzuki,Diesel,66890,67285.70348845242,-1962.6746225629047
+18,2014,18,"Becharaji, Mehsana, Gujarat.",Ignis-2017,Maruti Suzuki,Diesel,34860,38165.66720604702,4778.568664981537
+19,2006,19,"Becharaji, Mehsana, Gujarat.",Ertiga-2012,Maruti Suzuki,Diesel,63078,77395.99473266082,-1701.9706603747595
+20,2013,20,"Becharaji, Mehsana, Gujarat.",Dzire-2017,Maruti Suzuki,Diesel,21149,67006.82435197987,1345.9905163873345
+21,2013,21,"Gurugram and Manesar, Gurgaon, Haryana.",Ignis-2017,Maruti Suzuki,Petrol,12252,30937.268489712496,-1155.1341275011082
+22,2013,22,"Gurugram and Manesar, Gurgaon, Haryana.",S-Presso-2019,Maruti Suzuki,Diesel,71152,78727.1203905451,5219.773047331195
+23,2006,23,"Gurugram and Manesar, Gurgaon, Haryana.",Swift-2005,Maruti Suzuki,Petrol,13841,61110.832481630765,-2587.7530515889484
+24,2010,24,"Becharaji, Mehsana, Gujarat.",Ciaz-2014,Maruti Suzuki,Diesel,18822,3490.5257214777334,330.5035246830171
+25,2015,25,"Becharaji, Mehsana, Gujarat.",Celerio-2014,Maruti Suzuki,Diesel,18641,45045.77283423425,588.9843084134368
+26,2015,26,"Becharaji, Mehsana, Gujarat.",Ciaz-2014,Maruti Suzuki,Diesel,36891,38122.76374996151,-954.748810816584
+27,2018,27,"Gurugram and Manesar, Gurgaon, Haryana.",Wagon R-1999,Maruti Suzuki,Diesel,35637,73378.2556155528,1503.8881860478696
+28,2006,28,"Gurugram and Manesar, Gurgaon, Haryana.",Ertiga-2012,Maruti Suzuki,Petrol,83010,73595.47527485697,-1895.6934083890656
+29,2012,29,"Becharaji, Mehsana, Gujarat.",Baleno-2015,Maruti Suzuki,Petrol,26850,3761.868034909615,4932.135352184114
+30,2015,30,"Becharaji, Mehsana, Gujarat.",S-Cross-2015,Maruti Suzuki,Petrol,63834,77420.71395345885,243.5103318965339
+31,2006,31,"Gurugram and Manesar, Gurgaon, Haryana.",Vitara Brezza-2016,Maruti Suzuki,Petrol,51851,17077.040878605792,-1682.30487393801
+32,2012,32,"Becharaji, Mehsana, Gujarat.",Ciaz-2014,Maruti Suzuki,Petrol,73527,5763.955452547365,-2121.527729892655
+33,2015,33,"Becharaji, Mehsana, Gujarat.",XL6-2019,Maruti Suzuki,Diesel,48766,52436.78375273484,6484.058948617103
+34,2018,34,"Gurugram and Manesar, Gurgaon, Haryana.",Alto-2000,Maruti Suzuki,Diesel,24317,50547.90080822782,3347.0712940514177
+35,2010,35,"Gurugram and Manesar, Gurgaon, Haryana.",Baleno-2015,Maruti Suzuki,Petrol,41063,60189.9626536002,706.6311121733897
+36,2018,36,"Becharaji, Mehsana, Gujarat.",Baleno-2015,Maruti Suzuki,Diesel,57600,56990.11348931965,-840.3214980653529
+37,2005,37,"Gurugram and Manesar, Gurgaon, Haryana.",Ignis-2017,Maruti Suzuki,Diesel,99688,68564.35745142779,3032.658570664562
+38,2006,38,"Becharaji, Mehsana, Gujarat.",Ciaz-2014,Maruti Suzuki,Diesel,72756,71643.68168579528,4838.4980562940045
+39,2018,39,"Gurugram and Manesar, Gurgaon, Haryana.",Wagon R-1999,Maruti Suzuki,Petrol,15947,24502.054014258858,-488.5110328222786
+40,2019,40,"Gurugram and Manesar, Gurgaon, Haryana.",Alto-2000,Maruti Suzuki,Diesel,84574,74772.8256356113,-2573.1701666078534
+41,2014,41,"Gurugram and Manesar, Gurgaon, Haryana.",Alto-2000,Maruti Suzuki,Petrol,76114,30041.707884507494,4232.497842137026
+42,2018,42,"Gurugram and Manesar, Gurgaon, Haryana.",Ertiga-2012,Maruti Suzuki,Diesel,52731,52806.9013242639,1517.618678910847
+43,2018,43,"Becharaji, Mehsana, Gujarat.",Ciaz-2014,Maruti Suzuki,Diesel,28712,25820.925073353093,5427.59401501608
+44,2015,44,"Becharaji, Mehsana, Gujarat.",Baleno-2015,Maruti Suzuki,Diesel,76378,73207.99811184178,3795.8700801840514
+45,2012,45,"Gurugram and Manesar, Gurgaon, Haryana.",S-Cross-2015,Maruti Suzuki,Petrol,85772,27049.418934841597,2371.497292880247
+46,2017,46,"Becharaji, Mehsana, Gujarat.",Vitara Brezza-2016,Maruti Suzuki,Petrol,41186,53774.938146355795,3589.774503874185
+47,2021,47,"Gurugram and Manesar, Gurgaon, Haryana.",Dzire-2017,Maruti Suzuki,Petrol,81216,43309.02771375749,-1540.41343310787
+48,2020,48,"Becharaji, Mehsana, Gujarat.",Celerio-2014,Maruti Suzuki,Diesel,66756,16057.956173957486,6892.44909940304
+49,2014,49,"Gurugram and Manesar, Gurgaon, Haryana.",Celerio-2014,Maruti Suzuki,Petrol,49713,67540.21077810093,4482.630634709566
+50,2011,50,"Becharaji, Mehsana, Gujarat.",Alto-2000,Maruti Suzuki,Petrol,55308,6366.503681461118,1307.4912934443546
+51,2009,51,"Becharaji, Mehsana, Gujarat.",Ignis-2017,Maruti Suzuki,Diesel,77767,54182.98323140849,-166.72042278153594
+52,2007,52,"Gurugram and Manesar, Gurgaon, Haryana.",Baleno-2015,Maruti Suzuki,Diesel,29479,9080.75052599057,6868.052603946717
+53,2016,53,"Becharaji, Mehsana, Gujarat.",Celerio-2014,Maruti Suzuki,Diesel,59134,19131.274289552133,6279.4353388797135
+54,2005,54,"Gurugram and Manesar, Gurgaon, Haryana.",S-Presso-2019,Maruti Suzuki,Diesel,82290,42122.78765038192,-876.1132556260598
+55,2012,55,"Becharaji, Mehsana, Gujarat.",S-Cross-2015,Maruti Suzuki,Petrol,67193,21637.35518833876,1361.3287130259105
+56,2017,56,"Gurugram and Manesar, Gurgaon, Haryana.",Vitara Brezza-2016,Maruti Suzuki,Petrol,96959,76935.67960891665,-2060.896406241799
+57,2005,57,"Becharaji, Mehsana, Gujarat.",Ertiga-2012,Maruti Suzuki,Diesel,93178,50260.664899216536,5613.154455707163
+58,2016,58,"Gurugram and Manesar, Gurgaon, Haryana.",Baleno-2015,Maruti Suzuki,Diesel,27783,57546.77991853485,5225.673353344089
+59,2013,59,"Becharaji, Mehsana, Gujarat.",Alto-2000,Maruti Suzuki,Petrol,50462,12809.942086713083,5928.822449998153
+60,2006,60,"Becharaji, Mehsana, Gujarat.",Vitara Brezza-2016,Maruti Suzuki,Petrol,70043,11248.211293335513,3947.989895810955
+61,2005,61,"Becharaji, Mehsana, Gujarat.",Baleno-2015,Maruti Suzuki,Petrol,15487,40507.20538487507,-1815.937857595483
+62,2017,62,"Becharaji, Mehsana, Gujarat.",Dzire-2017,Maruti Suzuki,Petrol,64762,21108.96899129289,-952.5330888360411
+63,2009,63,"Gurugram and Manesar, Gurgaon, Haryana.",Wagon R-1999,Maruti Suzuki,Diesel,56229,78493.47921221727,-725.5692356596069
+64,2011,64,"Becharaji, Mehsana, Gujarat.",S-Cross-2015,Maruti Suzuki,Diesel,75730,12393.512395223792,2683.727914429842
+65,2010,65,"Becharaji, Mehsana, Gujarat.",Vitara Brezza-2016,Maruti Suzuki,Diesel,71043,70044.34958115732,1129.5866347713268
+66,2006,66,"Becharaji, Mehsana, Gujarat.",Swift-2005,Maruti Suzuki,Petrol,22523,47237.107731338714,1242.1381561267349
+67,2014,67,"Gurugram and Manesar, Gurgaon, Haryana.",Ignis-2017,Maruti Suzuki,Petrol,50946,30048.051559168835,5306.290513896067
+68,2016,68,"Gurugram and Manesar, Gurgaon, Haryana.",Swift-2005,Maruti Suzuki,Diesel,11230,29914.627683615927,887.1818589535346
+69,2017,69,"Becharaji, Mehsana, Gujarat.",S-Cross-2015,Maruti Suzuki,Diesel,53864,26743.20884479363,1431.914886168684
+70,2013,70,"Gurugram and Manesar, Gurgaon, Haryana.",Celerio-2014,Maruti Suzuki,Diesel,95017,70174.0087004687,-171.72564044693218
+71,2012,71,"Becharaji, Mehsana, Gujarat.",Vitara Brezza-2016,Maruti Suzuki,Petrol,16062,67201.99914618154,2802.768650453085
+72,2010,72,"Becharaji, Mehsana, Gujarat.",S-Cross-2015,Maruti Suzuki,Petrol,63716,36971.27028104962,263.0188604900468
+73,2005,73,"Gurugram and Manesar, Gurgaon, Haryana.",S-Presso-2019,Maruti Suzuki,Diesel,53861,6104.4187742558115,7106.3331323007715
+74,2014,74,"Gurugram and Manesar, Gurgaon, Haryana.",S-Presso-2019,Maruti Suzuki,Diesel,59457,29805.706344654176,-1504.9638502287994
+75,2005,75,"Gurugram and Manesar, Gurgaon, Haryana.",XL6-2019,Maruti Suzuki,Diesel,48916,37007.09209598959,4924.866427758372
+76,2017,76,"Becharaji, Mehsana, Gujarat.",Celerio-2014,Maruti Suzuki,Petrol,19967,52130.74291811257,6023.086601076022
+77,2011,77,"Becharaji, Mehsana, Gujarat.",XL6-2019,Maruti Suzuki,Petrol,33429,56173.0834940325,6992.885062173033
+78,2016,78,"Gurugram and Manesar, Gurgaon, Haryana.",Ignis-2017,Maruti Suzuki,Diesel,43004,78868.72356309326,6552.539389776535
+79,2009,79,"Becharaji, Mehsana, Gujarat.",Ignis-2017,Maruti Suzuki,Diesel,57539,10712.156819328888,-2097.68349745408
+80,2013,80,"Becharaji, Mehsana, Gujarat.",XL6-2019,Maruti Suzuki,Petrol,83036,39452.27714984538,6127.327550366101
+81,2012,81,"Gurugram and Manesar, Gurgaon, Haryana.",Ignis-2017,Maruti Suzuki,Petrol,14777,63223.904623070215,3019.0409305501244
+82,2011,82,"Gurugram and Manesar, Gurgaon, Haryana.",Dzire-2017,Maruti Suzuki,Petrol,69971,7583.95522465871,1860.1036474072307
+83,2006,83,"Gurugram and Manesar, Gurgaon, Haryana.",Ignis-2017,Maruti Suzuki,Petrol,75450,74885.26071612927,3329.550883052797
+84,2009,84,"Gurugram and Manesar, Gurgaon, Haryana.",S-Cross-2015,Maruti Suzuki,Diesel,46435,26844.119664170168,6280.630636664275
+85,2010,85,"Becharaji, Mehsana, Gujarat.",S-Cross-2015,Maruti Suzuki,Petrol,20018,41241.82770820126,2863.163496096674
+86,2021,86,"Becharaji, Mehsana, Gujarat.",Alto-2000,Maruti Suzuki,Petrol,86380,57510.53759866739,-941.3632745438633
+87,2007,87,"Becharaji, Mehsana, Gujarat.",Swift-2005,Maruti Suzuki,Diesel,75553,8347.934449081522,-2246.2862674766607
+88,2021,88,"Gurugram and Manesar, Gurgaon, Haryana.",Ignis-2017,Maruti Suzuki,Diesel,57440,64729.331256933845,6950.305571388573
+89,2013,89,"Gurugram and Manesar, Gurgaon, Haryana.",Alto-2000,Maruti Suzuki,Petrol,37334,55395.43265947652,-1109.6170806611735
+90,2011,90,"Becharaji, Mehsana, Gujarat.",S-Presso-2019,Maruti Suzuki,Petrol,78417,5409.772036802497,2910.3217680055195
+91,2008,91,"Becharaji, Mehsana, Gujarat.",Swift-2005,Maruti Suzuki,Diesel,61316,57641.31422621634,1005.7054974773041
+92,2006,92,"Becharaji, Mehsana, Gujarat.",Baleno-2015,Maruti Suzuki,Diesel,21988,54735.885874695545,-88.0941624761922
+93,2009,93,"Becharaji, Mehsana, Gujarat.",Wagon R-1999,Maruti Suzuki,Petrol,25447,29447.568209018762,6077.774417532228
+94,2008,94,"Becharaji, Mehsana, Gujarat.",Ciaz-2014,Maruti Suzuki,Diesel,29079,59253.36512842938,-235.82429670824968
+95,2017,95,"Becharaji, Mehsana, Gujarat.",Ertiga-2012,Maruti Suzuki,Petrol,59235,44992.19847637299,3358.0081201985195
+96,2009,96,"Gurugram and Manesar, Gurgaon, Haryana.",Alto-2000,Maruti Suzuki,Petrol,99011,65420.422580349914,1169.607411612229
+97,2014,97,"Gurugram and Manesar, Gurgaon, Haryana.",Baleno-2015,Maruti Suzuki,Diesel,21205,36057.55242575521,-1738.387614563101
+98,2015,98,"Gurugram and Manesar, Gurgaon, Haryana.",Celerio-2014,Maruti Suzuki,Petrol,20956,12269.91544355588,4726.238676330971
+99,2015,99,"Becharaji, Mehsana, Gujarat.",S-Presso-2019,Maruti Suzuki,Petrol,30667,74755.38949500973,-1835.1937994640916
+100,2007,100,"Gurugram and Manesar, Gurgaon, Haryana.",Vitara Brezza-2016,Maruti Suzuki,Petrol,61140,22234.619846603964,5054.414393033667
+101,2015,101,"Gurugram and Manesar, Gurgaon, Haryana.",Swift-2005,Maruti Suzuki,Diesel,49307,58220.057152073576,585.8581494430955
+102,2016,102,"Gurugram and Manesar, Gurgaon, Haryana.",Celerio-2014,Maruti Suzuki,Diesel,27772,39491.53845777782,-644.5117500621991
+103,2018,103,"Becharaji, Mehsana, Gujarat.",XL6-2019,Maruti Suzuki,Petrol,30112,49401.943842666886,-365.10604809530696
+104,2008,104,"Gurugram and Manesar, Gurgaon, Haryana.",Ciaz-2014,Maruti Suzuki,Petrol,85941,26369.823857603355,1462.4514810158726
+105,2020,105,"Gurugram and Manesar, Gurgaon, Haryana.",Ertiga-2012,Maruti Suzuki,Diesel,61740,50999.93530906327,1967.630417821164
+106,2013,106,"Gurugram and Manesar, Gurgaon, Haryana.",S-Cross-2015,Maruti Suzuki,Diesel,52543,53443.15361832702,-2264.1813461499996
+107,2018,107,"Gurugram and Manesar, Gurgaon, Haryana.",Ertiga-2012,Maruti Suzuki,Petrol,39362,53444.61700988872,6201.068984490279
+108,2017,108,"Becharaji, Mehsana, Gujarat.",XL6-2019,Maruti Suzuki,Diesel,85273,74624.6094213235,535.8826687291057
+109,2021,109,"Becharaji, Mehsana, Gujarat.",Ignis-2017,Maruti Suzuki,Diesel,19795,10221.166696925638,-2133.6597968520423
+110,2007,110,"Becharaji, Mehsana, Gujarat.",Swift-2005,Maruti Suzuki,Petrol,81920,63227.3319252872,5639.270146845462
+111,2017,111,"Gurugram and Manesar, Gurgaon, Haryana.",Dzire-2017,Maruti Suzuki,Petrol,20327,30310.934507960825,-805.8624238368818
+112,2014,112,"Gurugram and Manesar, Gurgaon, Haryana.",Vitara Brezza-2016,Maruti Suzuki,Diesel,73263,35465.26986062793,-1282.8958469501092
+113,2007,113,"Gurugram and Manesar, Gurgaon, Haryana.",Swift-2005,Maruti Suzuki,Diesel,16567,78453.15001898682,2782.275840186662
+114,2009,114,"Becharaji, Mehsana, Gujarat.",Celerio-2014,Maruti Suzuki,Diesel,28734,73151.75916474882,-52.259056153531674
+115,2015,115,"Becharaji, Mehsana, Gujarat.",Alto-2000,Maruti Suzuki,Diesel,77746,30198.734935867913,1204.0798024740116
+116,2010,116,"Becharaji, Mehsana, Gujarat.",Vitara Brezza-2016,Maruti Suzuki,Diesel,69848,40623.79101596097,1361.2315150719478
+117,2012,117,"Gurugram and Manesar, Gurgaon, Haryana.",Ertiga-2012,Maruti Suzuki,Diesel,43023,13614.382908731253,5299.344749686388
+118,2010,118,"Becharaji, Mehsana, Gujarat.",S-Cross-2015,Maruti Suzuki,Petrol,59773,29642.164460645705,7146.695114995793
+119,2014,119,"Gurugram and Manesar, Gurgaon, Haryana.",Ertiga-2012,Maruti Suzuki,Diesel,99914,46795.003167435694,2296.1980042925998
+120,2017,120,"Gurugram and Manesar, Gurgaon, Haryana.",Vitara Brezza-2016,Maruti Suzuki,Petrol,24668,10688.768340222572,2670.7399184281767
+121,2010,121,"Gurugram and Manesar, Gurgaon, Haryana.",Ciaz-2014,Maruti Suzuki,Petrol,12405,5683.063559459781,6991.962680014814
+122,2021,122,"Becharaji, Mehsana, Gujarat.",Vitara Brezza-2016,Maruti Suzuki,Petrol,97082,17481.967704369483,-1947.3296925753507
+123,2018,123,"Gurugram and Manesar, Gurgaon, Haryana.",XL6-2019,Maruti Suzuki,Petrol,56676,15167.294801258346,3963.193581144302
+124,2012,124,"Becharaji, Mehsana, Gujarat.",Celerio-2014,Maruti Suzuki,Diesel,46012,69328.72045454806,-1334.5379487924336
+125,2012,125,"Gurugram and Manesar, Gurgaon, Haryana.",S-Presso-2019,Maruti Suzuki,Petrol,15363,66055.76387374678,4567.82619600556
+126,2009,126,"Becharaji, Mehsana, Gujarat.",S-Cross-2015,Maruti Suzuki,Diesel,15434,71230.7016968742,2531.783478309965
+127,2008,127,"Becharaji, Mehsana, Gujarat.",Celerio-2014,Maruti Suzuki,Petrol,81249,57284.1943598605,4082.5979418525812
+128,2006,128,"Becharaji, Mehsana, Gujarat.",XL6-2019,Maruti Suzuki,Petrol,89219,6642.862310415427,6601.55883875015
+129,2017,129,"Gurugram and Manesar, Gurgaon, Haryana.",Vitara Brezza-2016,Maruti Suzuki,Petrol,49900,44804.0496178673,219.7084885309191
+130,2017,130,"Gurugram and Manesar, Gurgaon, Haryana.",Baleno-2015,Maruti Suzuki,Petrol,92687,27584.823611005362,464.66975889779224
+131,2014,131,"Becharaji, Mehsana, Gujarat.",Ignis-2017,Maruti Suzuki,Petrol,10788,24468.484127600637,3875.9091657482422
+132,2006,132,"Becharaji, Mehsana, Gujarat.",Celerio-2014,Maruti Suzuki,Petrol,25704,29918.019685665437,1680.880117637781
+133,2011,133,"Gurugram and Manesar, Gurgaon, Haryana.",Wagon R-1999,Maruti Suzuki,Diesel,69172,33055.944938230925,82.83091153120358
+134,2020,134,"Gurugram and Manesar, Gurgaon, Haryana.",Baleno-2015,Maruti Suzuki,Diesel,13075,8323.158703333995,4905.969235066281
+135,2016,135,"Becharaji, Mehsana, Gujarat.",Ciaz-2014,Maruti Suzuki,Petrol,89301,39639.44649624609,-2000.8937826108884
+136,2016,136,"Becharaji, Mehsana, Gujarat.",Celerio-2014,Maruti Suzuki,Diesel,47423,75970.7091291952,-1108.6936622862427
+137,2005,137,"Gurugram and Manesar, Gurgaon, Haryana.",Ertiga-2012,Maruti Suzuki,Petrol,54700,63362.808837869816,512.8729041783004
+138,2021,138,"Becharaji, Mehsana, Gujarat.",XL6-2019,Maruti Suzuki,Diesel,19988,35412.0993753064,-1150.1677143455329
+139,2015,139,"Gurugram and Manesar, Gurgaon, Haryana.",XL6-2019,Maruti Suzuki,Diesel,93873,11534.78943701255,1030.9413083629097
+140,2007,140,"Becharaji, Mehsana, Gujarat.",Ignis-2017,Maruti Suzuki,Petrol,55005,72539.28231342703,-2510.216478377399
+141,2005,141,"Gurugram and Manesar, Gurgaon, Haryana.",S-Presso-2019,Maruti Suzuki,Petrol,23154,12318.516661679427,2804.9102619500845
+142,2014,142,"Becharaji, Mehsana, Gujarat.",Vitara Brezza-2016,Maruti Suzuki,Petrol,85202,19335.623157995222,6546.659720976662
+143,2007,143,"Gurugram and Manesar, Gurgaon, Haryana.",Vitara Brezza-2016,Maruti Suzuki,Petrol,44774,56921.40005078889,4975.887723365295
+144,2005,144,"Becharaji, Mehsana, Gujarat.",Ignis-2017,Maruti Suzuki,Petrol,40716,14185.446375301404,1405.5622736548394
+145,2021,145,"Gurugram and Manesar, Gurgaon, Haryana.",S-Presso-2019,Maruti Suzuki,Petrol,96893,68076.08509738694,1487.0663062432777
+146,2011,146,"Gurugram and Manesar, Gurgaon, Haryana.",Vitara Brezza-2016,Maruti Suzuki,Diesel,66393,77516.23576884734,5336.817489065323
+147,2020,147,"Gurugram and Manesar, Gurgaon, Haryana.",S-Cross-2015,Maruti Suzuki,Diesel,47256,46103.350386253056,-1835.597386846519
+148,2013,148,"Gurugram and Manesar, Gurgaon, Haryana.",Baleno-2015,Maruti Suzuki,Diesel,20331,52911.136472474594,-1955.495668987438
+149,2006,149,"Becharaji, Mehsana, Gujarat.",Ertiga-2012,Maruti Suzuki,Petrol,95350,63771.72209936629,7080.249389285535
+150,2012,150,"Gurugram and Manesar, Gurgaon, Haryana.",XL6-2019,Maruti Suzuki,Diesel,82848,52742.57436898809,-351.46552065579317
+151,2016,151,"Becharaji, Mehsana, Gujarat.",Swift-2005,Maruti Suzuki,Petrol,18007,53132.8207140311,4429.350899050988
+152,2020,152,"Becharaji, Mehsana, Gujarat.",Vitara Brezza-2016,Maruti Suzuki,Petrol,71189,25506.484322726676,-1230.984583811178
+153,2018,153,"Gurugram and Manesar, Gurgaon, Haryana.",Ertiga-2012,Maruti Suzuki,Diesel,79237,38558.06655475437,2413.710856028005
+154,2016,154,"Gurugram and Manesar, Gurgaon, Haryana.",Vitara Brezza-2016,Maruti Suzuki,Diesel,88354,52376.54919569662,-963.2752177454906
+155,2007,155,"Becharaji, Mehsana, Gujarat.",Ciaz-2014,Maruti Suzuki,Petrol,52490,65115.2368255332,-764.7820880032707
+156,2016,156,"Gurugram and Manesar, Gurgaon, Haryana.",Wagon R-1999,Maruti Suzuki,Petrol,33011,4304.340003912084,849.1158446720747
+157,2019,157,"Gurugram and Manesar, Gurgaon, Haryana.",S-Presso-2019,Maruti Suzuki,Diesel,11058,61611.11804230557,2760.518392372206
+158,2021,158,"Gurugram and Manesar, Gurgaon, Haryana.",Ignis-2017,Maruti Suzuki,Diesel,37793,55289.497056014196,4141.949047469377
+159,2016,159,"Becharaji, Mehsana, Gujarat.",Ertiga-2012,Maruti Suzuki,Petrol,35794,62490.414652437976,7131.9238767826555
+160,2021,160,"Becharaji, Mehsana, Gujarat.",S-Cross-2015,Maruti Suzuki,Petrol,97394,29238.52876529578,4709.79414514504
+161,2017,161,"Becharaji, Mehsana, Gujarat.",Wagon R-1999,Maruti Suzuki,Diesel,36732,21501.980698086063,3643.6843562912045
+162,2007,162,"Gurugram and Manesar, Gurgaon, Haryana.",S-Presso-2019,Maruti Suzuki,Petrol,94226,15401.505601834357,4945.492187265164
+163,2009,163,"Becharaji, Mehsana, Gujarat.",Wagon R-1999,Maruti Suzuki,Diesel,16603,57935.005551224735,2042.6295915233086
+164,2015,164,"Gurugram and Manesar, Gurgaon, Haryana.",Vitara Brezza-2016,Maruti Suzuki,Petrol,46100,47815.587504090894,1789.4073399682757
+165,2005,165,"Becharaji, Mehsana, Gujarat.",Swift-2005,Maruti Suzuki,Diesel,39203,21958.77570733071,1008.915372421236
+166,2007,166,"Becharaji, Mehsana, Gujarat.",Celerio-2014,Maruti Suzuki,Diesel,17170,4715.05882844372,3175.352565563856
+167,2008,167,"Gurugram and Manesar, Gurgaon, Haryana.",Ciaz-2014,Maruti Suzuki,Diesel,40479,73357.50600044336,-1657.8567624145694
+168,2012,168,"Becharaji, Mehsana, Gujarat.",Swift-2005,Maruti Suzuki,Diesel,26879,63178.244126875616,-1230.588678560997
+169,2019,169,"Gurugram and Manesar, Gurgaon, Haryana.",S-Cross-2015,Maruti Suzuki,Diesel,58514,52363.24091591811,405.2216457135901
+170,2005,170,"Gurugram and Manesar, Gurgaon, Haryana.",Alto-2000,Maruti Suzuki,Petrol,60086,24072.383676777306,101.9327157749135
+171,2009,171,"Gurugram and Manesar, Gurgaon, Haryana.",Dzire-2017,Maruti Suzuki,Diesel,17060,52363.98491900781,4195.643011504084
+172,2012,172,"Gurugram and Manesar, Gurgaon, Haryana.",S-Presso-2019,Maruti Suzuki,Diesel,44054,61492.8285770109,5594.408729796654
+173,2013,173,"Gurugram and Manesar, Gurgaon, Haryana.",Swift-2005,Maruti Suzuki,Diesel,36504,7867.794319417395,3645.4528870149716
+174,2006,174,"Becharaji, Mehsana, Gujarat.",S-Presso-2019,Maruti Suzuki,Diesel,25422,48334.222775012175,5509.7460894317555
+175,2018,175,"Becharaji, Mehsana, Gujarat.",Vitara Brezza-2016,Maruti Suzuki,Petrol,69725,49471.134447182994,6390.404611731119
+176,2014,176,"Gurugram and Manesar, Gurgaon, Haryana.",Swift-2005,Maruti Suzuki,Petrol,75504,42091.82099004535,-2098.714638225683
+177,2019,177,"Gurugram and Manesar, Gurgaon, Haryana.",S-Cross-2015,Maruti Suzuki,Diesel,14188,37513.77295941317,4050.136079027523
+178,2013,178,"Becharaji, Mehsana, Gujarat.",S-Presso-2019,Maruti Suzuki,Petrol,66405,77840.6749106166,-1915.1456071638977
+179,2017,179,"Becharaji, Mehsana, Gujarat.",Swift-2005,Maruti Suzuki,Diesel,78377,22410.66521292443,-2269.233534488528
+180,2018,180,"Gurugram and Manesar, Gurgaon, Haryana.",Swift-2005,Maruti Suzuki,Petrol,64473,27243.555095477564,1988.4379850359237
+181,2021,181,"Becharaji, Mehsana, Gujarat.",Celerio-2014,Maruti Suzuki,Diesel,66048,32385.073889724237,3192.311161267866
+182,2008,182,"Becharaji, Mehsana, Gujarat.",Ertiga-2012,Maruti Suzuki,Petrol,52225,69157.92521733463,1240.8087072780613
+183,2008,183,"Becharaji, Mehsana, Gujarat.",Vitara Brezza-2016,Maruti Suzuki,Diesel,45092,65051.53519366651,-676.1093239729739
+184,2008,184,"Gurugram and Manesar, Gurgaon, Haryana.",Swift-2005,Maruti Suzuki,Diesel,63279,74694.60595672614,-2568.0232229379253
+185,2010,185,"Becharaji, Mehsana, Gujarat.",Ertiga-2012,Maruti Suzuki,Diesel,26113,8294.49323485876,3556.7716615441677
+186,2012,186,"Gurugram and Manesar, Gurgaon, Haryana.",Celerio-2014,Maruti Suzuki,Petrol,22028,46889.06400790225,4570.912976785298
+187,2017,187,"Becharaji, Mehsana, Gujarat.",XL6-2019,Maruti Suzuki,Petrol,80348,34445.50374534219,7168.893099457624
+188,2005,188,"Becharaji, Mehsana, Gujarat.",Dzire-2017,Maruti Suzuki,Petrol,84630,23088.979372663118,-932.529354293094
+189,2016,189,"Gurugram and Manesar, Gurgaon, Haryana.",Swift-2005,Maruti Suzuki,Diesel,17674,31590.331881630616,488.67443751509745
+190,2015,190,"Gurugram and Manesar, Gurgaon, Haryana.",Ignis-2017,Maruti Suzuki,Diesel,57054,58949.85851654041,5711.929012435121
+191,2020,191,"Becharaji, Mehsana, Gujarat.",Alto-2000,Maruti Suzuki,Petrol,98736,62262.36096655737,2410.631049579836
+192,2016,192,"Becharaji, Mehsana, Gujarat.",Ciaz-2014,Maruti Suzuki,Diesel,63796,76652.94810359005,3603.8463495417
+193,2014,193,"Becharaji, Mehsana, Gujarat.",Celerio-2014,Maruti Suzuki,Petrol,24250,28329.39937071935,-1823.8556733404653
+194,2012,194,"Becharaji, Mehsana, Gujarat.",Celerio-2014,Maruti Suzuki,Petrol,28814,28941.331851930565,1541.4525356677505
+195,2017,195,"Gurugram and Manesar, Gurgaon, Haryana.",XL6-2019,Maruti Suzuki,Petrol,62469,25393.6288594725,-1294.242952930774
+196,2011,196,"Gurugram and Manesar, Gurgaon, Haryana.",Dzire-2017,Maruti Suzuki,Petrol,38257,59936.282221279376,2956.4349788568115
+197,2017,197,"Becharaji, Mehsana, Gujarat.",Ciaz-2014,Maruti Suzuki,Petrol,73138,27006.520581197212,-1669.2683784568053
+198,2006,198,"Becharaji, Mehsana, Gujarat.",Dzire-2017,Maruti Suzuki,Diesel,28497,49496.75268269717,4914.764583553072
+199,2010,199,"Gurugram and Manesar, Gurgaon, Haryana.",Vitara Brezza-2016,Maruti Suzuki,Diesel,55642,39184.66498666717,-1071.5454087382668
+200,2006,200,"Gurugram and Manesar, Gurgaon, Haryana.",Vitara Brezza-2016,Maruti Suzuki,Petrol,11889,4212.412967944072,867.9945456138003
+201,2012,201,"Becharaji, Mehsana, Gujarat.",S-Cross-2015,Maruti Suzuki,Petrol,62419,20118.27414017636,2839.733195528781
+202,2016,202,"Becharaji, Mehsana, Gujarat.",Swift-2005,Maruti Suzuki,Petrol,53766,73811.75487332279,2544.6139515033983
+203,2010,203,"Becharaji, Mehsana, Gujarat.",Vitara Brezza-2016,Maruti Suzuki,Petrol,88163,34120.798224115366,-1768.1464470400706
+204,2005,204,"Gurugram and Manesar, Gurgaon, Haryana.",Alto-2000,Maruti Suzuki,Petrol,14487,11942.634107758317,4875.953176224668
+205,2018,205,"Becharaji, Mehsana, Gujarat.",Ciaz-2014,Maruti Suzuki,Petrol,42212,49198.4161137674,223.97536375492746
+206,2017,206,"Becharaji, Mehsana, Gujarat.",Celerio-2014,Maruti Suzuki,Petrol,25569,64949.63861106876,1452.7066203324584
+207,2012,207,"Gurugram and Manesar, Gurgaon, Haryana.",Dzire-2017,Maruti Suzuki,Diesel,91131,44659.21058336059,2513.1522829925716
+208,2008,208,"Gurugram and Manesar, Gurgaon, Haryana.",Vitara Brezza-2016,Maruti Suzuki,Diesel,15237,32250.158063584382,6630.656180309679
+209,2012,209,"Becharaji, Mehsana, Gujarat.",XL6-2019,Maruti Suzuki,Diesel,44051,39186.742235653706,6610.9026708866095
+210,2014,210,"Becharaji, Mehsana, Gujarat.",S-Presso-2019,Maruti Suzuki,Diesel,25656,38748.33494392732,-59.469621146536156
+211,2017,211,"Becharaji, Mehsana, Gujarat.",XL6-2019,Maruti Suzuki,Petrol,19026,6452.090329524953,5891.3272977948745
+212,2006,212,"Gurugram and Manesar, Gurgaon, Haryana.",Alto-2000,Maruti Suzuki,Diesel,15486,58430.83452974041,-1111.7608494031458
+213,2018,213,"Becharaji, Mehsana, Gujarat.",S-Presso-2019,Maruti Suzuki,Petrol,70333,70779.48009521312,2085.73284355971
+214,2010,214,"Gurugram and Manesar, Gurgaon, Haryana.",Ertiga-2012,Maruti Suzuki,Petrol,18814,12277.158632034196,-2045.1209481855067
+215,2007,215,"Gurugram and Manesar, Gurgaon, Haryana.",Ignis-2017,Maruti Suzuki,Petrol,71024,24440.325665000273,-766.1402048764876
+216,2016,216,"Becharaji, Mehsana, Gujarat.",Vitara Brezza-2016,Maruti Suzuki,Petrol,42357,74738.03973596914,-2183.480734207214
+217,2011,217,"Gurugram and Manesar, Gurgaon, Haryana.",Ciaz-2014,Maruti Suzuki,Petrol,17152,78465.49919219472,4173.782035254673
+218,2012,218,"Gurugram and Manesar, Gurgaon, Haryana.",S-Cross-2015,Maruti Suzuki,Petrol,68676,28815.010840721294,6985.7019907046415
+219,2006,219,"Becharaji, Mehsana, Gujarat.",Ciaz-2014,Maruti Suzuki,Petrol,26752,15096.40531453751,-1923.663581329154
+220,2013,220,"Becharaji, Mehsana, Gujarat.",Alto-2000,Maruti Suzuki,Petrol,95693,29835.876734284397,4166.477848129073
+221,2008,221,"Gurugram and Manesar, Gurgaon, Haryana.",Wagon R-1999,Maruti Suzuki,Diesel,19768,6010.466412076477,-1395.0613452272078
+222,2005,222,"Gurugram and Manesar, Gurgaon, Haryana.",Celerio-2014,Maruti Suzuki,Petrol,53424,15391.351419484594,1773.427996725034
+223,2006,223,"Becharaji, Mehsana, Gujarat.",Alto-2000,Maruti Suzuki,Diesel,54969,14612.572615325469,4847.426779369937
+224,2012,224,"Gurugram and Manesar, Gurgaon, Haryana.",Ignis-2017,Maruti Suzuki,Petrol,31914,39224.5080435808,6335.296292480345
+225,2015,225,"Gurugram and Manesar, Gurgaon, Haryana.",S-Presso-2019,Maruti Suzuki,Petrol,42161,52581.59611489384,-1308.2294048590836
+226,2012,226,"Becharaji, Mehsana, Gujarat.",Vitara Brezza-2016,Maruti Suzuki,Petrol,49021,11653.940755277103,-769.4702931929253
+227,2019,227,"Gurugram and Manesar, Gurgaon, Haryana.",Celerio-2014,Maruti Suzuki,Diesel,50627,30497.114176847877,3195.6488964472537
+228,2019,228,"Becharaji, Mehsana, Gujarat.",Dzire-2017,Maruti Suzuki,Diesel,70203,12781.196126170193,6510.525900027753
+229,2007,229,"Gurugram and Manesar, Gurgaon, Haryana.",Dzire-2017,Maruti Suzuki,Petrol,53331,54028.26245325473,4118.643211192996
+230,2017,230,"Becharaji, Mehsana, Gujarat.",Celerio-2014,Maruti Suzuki,Petrol,71247,18459.487719130513,-1161.5556278974925
+231,2008,231,"Becharaji, Mehsana, Gujarat.",XL6-2019,Maruti Suzuki,Petrol,61451,72785.35252828429,5560.576927683867
+232,2015,232,"Becharaji, Mehsana, Gujarat.",S-Cross-2015,Maruti Suzuki,Petrol,59753,57345.63574453133,2217.155810907717
+233,2020,233,"Gurugram and Manesar, Gurgaon, Haryana.",Ciaz-2014,Maruti Suzuki,Diesel,88385,63406.74938448409,7105.857791793225
+234,2020,234,"Becharaji, Mehsana, Gujarat.",Ciaz-2014,Maruti Suzuki,Petrol,19735,30481.678366033262,902.0496475903133
+235,2019,235,"Becharaji, Mehsana, Gujarat.",Baleno-2015,Maruti Suzuki,Petrol,42054,32567.251513559444,-1028.1475487785146
+236,2010,236,"Gurugram and Manesar, Gurgaon, Haryana.",Swift-2005,Maruti Suzuki,Petrol,20651,21429.797492558064,-2169.791222589906
+237,2013,237,"Becharaji, Mehsana, Gujarat.",Ciaz-2014,Maruti Suzuki,Diesel,16092,71142.98552444822,2413.870946387793
+238,2006,238,"Gurugram and Manesar, Gurgaon, Haryana.",Baleno-2015,Maruti Suzuki,Diesel,98122,44773.56949336486,943.5725009788566
+239,2007,239,"Gurugram and Manesar, Gurgaon, Haryana.",XL6-2019,Maruti Suzuki,Petrol,62024,40488.00232605128,-1277.0090873324787
+240,2013,240,"Gurugram and Manesar, Gurgaon, Haryana.",Dzire-2017,Maruti Suzuki,Diesel,32143,65795.20021535699,6688.990996286368
+241,2014,241,"Becharaji, Mehsana, Gujarat.",Ignis-2017,Maruti Suzuki,Diesel,54739,20926.785688256423,5286.073682931124
+242,2008,242,"Gurugram and Manesar, Gurgaon, Haryana.",Wagon R-1999,Maruti Suzuki,Diesel,51532,52838.33520763185,2258.5206243405028
+243,2008,243,"Gurugram and Manesar, Gurgaon, Haryana.",S-Cross-2015,Maruti Suzuki,Diesel,42076,42852.806442616886,-157.19477556492575
+244,2020,244,"Gurugram and Manesar, Gurgaon, Haryana.",Baleno-2015,Maruti Suzuki,Diesel,21228,57608.059282373004,697.2804419245163
+245,2020,245,"Gurugram and Manesar, Gurgaon, Haryana.",S-Cross-2015,Maruti Suzuki,Petrol,45821,59525.16236629509,3009.399105232309
+246,2016,246,"Gurugram and Manesar, Gurgaon, Haryana.",Celerio-2014,Maruti Suzuki,Diesel,24753,23309.565022262603,3020.9683126658547
+247,2018,247,"Becharaji, Mehsana, Gujarat.",Wagon R-1999,Maruti Suzuki,Petrol,20172,15418.244379630429,-1088.7789391290232
+248,2015,248,"Gurugram and Manesar, Gurgaon, Haryana.",Wagon R-1999,Maruti Suzuki,Diesel,64788,33071.1794465598,-707.5136831790769
+249,2008,249,"Becharaji, Mehsana, Gujarat.",Ciaz-2014,Maruti Suzuki,Petrol,62925,78996.21668138175,-1552.239782625024
+250,2005,250,"Gurugram and Manesar, Gurgaon, Haryana.",XL6-2019,Maruti Suzuki,Diesel,99315,27044.207991269748,6590.145992085092
+251,2010,251,"Becharaji, Mehsana, Gujarat.",Alto-2000,Maruti Suzuki,Diesel,81601,69244.22515787583,4491.985245238212
+252,2011,252,"Becharaji, Mehsana, Gujarat.",Ciaz-2014,Maruti Suzuki,Diesel,50699,13020.985970982758,5595.425577195021
+253,2018,253,"Gurugram and Manesar, Gurgaon, Haryana.",Dzire-2017,Maruti Suzuki,Petrol,91126,6555.099388343868,637.9293843561663
+254,2011,254,"Gurugram and Manesar, Gurgaon, Haryana.",S-Presso-2019,Maruti Suzuki,Petrol,36086,5605.696973943595,4247.69453607068
+255,2020,255,"Becharaji, Mehsana, Gujarat.",Vitara Brezza-2016,Maruti Suzuki,Petrol,65598,44128.161359456746,1366.2463138621192
+256,2021,256,"Gurugram and Manesar, Gurgaon, Haryana.",Ertiga-2012,Maruti Suzuki,Diesel,23435,59411.98409172487,4495.7177662629965
+257,2017,257,"Gurugram and Manesar, Gurgaon, Haryana.",Ertiga-2012,Maruti Suzuki,Diesel,13619,52659.75990996288,-1739.7981366475126
+258,2018,258,"Gurugram and Manesar, Gurgaon, Haryana.",Celerio-2014,Maruti Suzuki,Petrol,21758,31429.728038159414,1088.088565061822
+259,2009,259,"Gurugram and Manesar, Gurgaon, Haryana.",Ciaz-2014,Maruti Suzuki,Petrol,63319,28701.580931852957,747.2688968486209
+260,2020,260,"Gurugram and Manesar, Gurgaon, Haryana.",Vitara Brezza-2016,Maruti Suzuki,Petrol,74360,64350.8456556082,256.45553191714953
+261,2021,261,"Becharaji, Mehsana, Gujarat.",Ciaz-2014,Maruti Suzuki,Diesel,28195,66370.38828185097,-1766.7800182172405
+262,2017,262,"Becharaji, Mehsana, Gujarat.",Ignis-2017,Maruti Suzuki,Petrol,32920,46090.09536923694,-559.7076525237867
+263,2016,263,"Becharaji, Mehsana, Gujarat.",Celerio-2014,Maruti Suzuki,Diesel,26304,47528.36131531279,4597.166875217576
+264,2008,264,"Gurugram and Manesar, Gurgaon, Haryana.",S-Cross-2015,Maruti Suzuki,Diesel,40932,4801.98465418911,3146.298175290781
+265,2020,265,"Gurugram and Manesar, Gurgaon, Haryana.",Baleno-2015,Maruti Suzuki,Petrol,60053,76184.95630630074,2553.5457746408993
+266,2008,266,"Becharaji, Mehsana, Gujarat.",S-Presso-2019,Maruti Suzuki,Diesel,81906,75155.42584368827,2850.0872122118235
+267,2020,267,"Gurugram and Manesar, Gurgaon, Haryana.",Ignis-2017,Maruti Suzuki,Diesel,66732,14328.932070201654,5747.732738367602
+268,2011,268,"Gurugram and Manesar, Gurgaon, Haryana.",S-Cross-2015,Maruti Suzuki,Petrol,64322,25773.238935755708,-939.6179261255825
+269,2017,269,"Gurugram and Manesar, Gurgaon, Haryana.",S-Cross-2015,Maruti Suzuki,Diesel,84962,55302.76180243396,-1351.723016741529
+270,2010,270,"Becharaji, Mehsana, Gujarat.",Ignis-2017,Maruti Suzuki,Diesel,20519,17466.88419151245,6236.869556784055
+271,2009,271,"Becharaji, Mehsana, Gujarat.",Ignis-2017,Maruti Suzuki,Petrol,96329,19067.840254848288,-638.7387017993658
+272,2009,272,"Gurugram and Manesar, Gurgaon, Haryana.",Alto-2000,Maruti Suzuki,Petrol,56398,68054.9216397581,4352.117381263535
+273,2009,273,"Gurugram and Manesar, Gurgaon, Haryana.",Ertiga-2012,Maruti Suzuki,Diesel,29230,19481.707610601636,-1983.375355158802
+274,2017,274,"Gurugram and Manesar, Gurgaon, Haryana.",Vitara Brezza-2016,Maruti Suzuki,Petrol,25201,67659.52173021802,4787.147648533335
+275,2007,275,"Gurugram and Manesar, Gurgaon, Haryana.",Baleno-2015,Maruti Suzuki,Diesel,63477,51318.78119129389,5993.610350540632
+276,2005,276,"Gurugram and Manesar, Gurgaon, Haryana.",Ciaz-2014,Maruti Suzuki,Diesel,91200,5135.721934878518,3400.146791886861
+277,2009,277,"Gurugram and Manesar, Gurgaon, Haryana.",Baleno-2015,Maruti Suzuki,Diesel,84053,47576.965454715224,2898.80162287441
+278,2016,278,"Gurugram and Manesar, Gurgaon, Haryana.",Ertiga-2012,Maruti Suzuki,Petrol,92479,36641.03576526765,4816.242779956844
+279,2006,279,"Gurugram and Manesar, Gurgaon, Haryana.",Alto-2000,Maruti Suzuki,Petrol,47697,4203.923743708992,4612.717992484743
+280,2021,280,"Gurugram and Manesar, Gurgaon, Haryana.",Baleno-2015,Maruti Suzuki,Petrol,99220,59138.17634154265,-2498.1446688205906
+281,2011,281,"Becharaji, Mehsana, Gujarat.",XL6-2019,Maruti Suzuki,Diesel,44991,60789.755155749226,4757.6553990447765
+282,2005,282,"Gurugram and Manesar, Gurgaon, Haryana.",Ignis-2017,Maruti Suzuki,Diesel,67294,19502.723947217,-1729.6792819769353
+283,2006,283,"Gurugram and Manesar, Gurgaon, Haryana.",Swift-2005,Maruti Suzuki,Diesel,50589,10560.222045469136,6084.061738533153
+284,2014,284,"Becharaji, Mehsana, Gujarat.",Wagon R-1999,Maruti Suzuki,Diesel,99216,65239.395259111516,-1161.4571604453572
+285,2007,285,"Becharaji, Mehsana, Gujarat.",Dzire-2017,Maruti Suzuki,Diesel,46399,8069.835933900442,-513.57282251592
+286,2015,286,"Becharaji, Mehsana, Gujarat.",S-Presso-2019,Maruti Suzuki,Diesel,49865,74806.77423450859,6410.1250373463245
+287,2008,287,"Gurugram and Manesar, Gurgaon, Haryana.",Celerio-2014,Maruti Suzuki,Diesel,18762,43414.7910079299,3247.7879381308385
+288,2010,288,"Becharaji, Mehsana, Gujarat.",Swift-2005,Maruti Suzuki,Petrol,60449,12802.193452287991,2694.0648763444788
+289,2009,289,"Gurugram and Manesar, Gurgaon, Haryana.",Vitara Brezza-2016,Maruti Suzuki,Petrol,56782,61067.47406756294,2017.4528109836829
+290,2018,290,"Becharaji, Mehsana, Gujarat.",XL6-2019,Maruti Suzuki,Petrol,47933,58212.626020452786,-2615.2519534688813
+291,2017,291,"Gurugram and Manesar, Gurgaon, Haryana.",S-Presso-2019,Maruti Suzuki,Petrol,78807,13074.842279682447,3225.2625452135608
+292,2005,292,"Gurugram and Manesar, Gurgaon, Haryana.",Ignis-2017,Maruti Suzuki,Petrol,67966,3847.298502109543,2416.2315411668405
+293,2015,293,"Becharaji, Mehsana, Gujarat.",S-Cross-2015,Maruti Suzuki,Diesel,92109,56043.877339201776,237.45615817107364
+294,2011,294,"Gurugram and Manesar, Gurgaon, Haryana.",Ciaz-2014,Maruti Suzuki,Petrol,28906,65552.76886914218,5149.170513168429
+295,2021,295,"Gurugram and Manesar, Gurgaon, Haryana.",Alto-2000,Maruti Suzuki,Petrol,86883,68288.0315112397,93.70757188245307
+296,2021,296,"Becharaji, Mehsana, Gujarat.",Wagon R-1999,Maruti Suzuki,Diesel,91072,55939.67362349725,4454.271582165297
+297,2019,297,"Becharaji, Mehsana, Gujarat.",XL6-2019,Maruti Suzuki,Diesel,18945,52027.93417873908,549.3288817973817
+298,2013,298,"Gurugram and Manesar, Gurgaon, Haryana.",Alto-2000,Maruti Suzuki,Petrol,47917,70485.09278817801,-169.19447821665517
+299,2018,299,"Gurugram and Manesar, Gurgaon, Haryana.",Vitara Brezza-2016,Maruti Suzuki,Diesel,45498,77789.69980039005,-436.9903076404521
+300,2014,300,"Gurugram and Manesar, Gurgaon, Haryana.",Baleno-2015,Maruti Suzuki,Diesel,71774,20925.694607197536,860.0387742799244
+301,2016,301,"Becharaji, Mehsana, Gujarat.",Ciaz-2014,Maruti Suzuki,Petrol,73551,47959.45935938026,3581.2404772077753
+302,2012,302,"Gurugram and Manesar, Gurgaon, Haryana.",Ertiga-2012,Maruti Suzuki,Diesel,74047,27653.70023335513,4558.518550503967
+303,2019,303,"Becharaji, Mehsana, Gujarat.",S-Cross-2015,Maruti Suzuki,Petrol,76641,17512.5056093097,6355.97543463259
+304,2015,304,"Gurugram and Manesar, Gurgaon, Haryana.",Ertiga-2012,Maruti Suzuki,Diesel,83492,65234.20389971207,424.50308048082024
+305,2013,305,"Gurugram and Manesar, Gurgaon, Haryana.",S-Presso-2019,Maruti Suzuki,Petrol,62729,36124.064118746406,6636.0577956683865
+306,2010,306,"Becharaji, Mehsana, Gujarat.",Dzire-2017,Maruti Suzuki,Diesel,62000,60911.763776991305,2164.423692260977
+307,2019,307,"Gurugram and Manesar, Gurgaon, Haryana.",Ertiga-2012,Maruti Suzuki,Petrol,56606,77859.28462937065,5508.388519995596
+308,2015,308,"Becharaji, Mehsana, Gujarat.",S-Cross-2015,Maruti Suzuki,Petrol,66150,27198.75631476759,4794.992902414755
+309,2015,309,"Gurugram and Manesar, Gurgaon, Haryana.",Alto-2000,Maruti Suzuki,Diesel,18641,9180.558010123608,3757.36540469165
+310,2019,310,"Becharaji, Mehsana, Gujarat.",S-Cross-2015,Maruti Suzuki,Diesel,85663,56202.023646338734,-2626.434532376099
+311,2020,311,"Becharaji, Mehsana, Gujarat.",S-Cross-2015,Maruti Suzuki,Petrol,59644,19132.048815252834,-2186.035362381331
+312,2020,312,"Gurugram and Manesar, Gurgaon, Haryana.",Dzire-2017,Maruti Suzuki,Petrol,67784,14908.018213400417,5851.4314832973705
+313,2016,313,"Gurugram and Manesar, Gurgaon, Haryana.",Vitara Brezza-2016,Maruti Suzuki,Petrol,22451,54592.28407196589,1123.3772521651535
+314,2016,314,"Becharaji, Mehsana, Gujarat.",XL6-2019,Maruti Suzuki,Petrol,74809,47073.38750903084,5790.740099796203
+315,2019,315,"Becharaji, Mehsana, Gujarat.",Ciaz-2014,Maruti Suzuki,Petrol,72500,70364.32958126657,4503.991264151974
+316,2012,316,"Gurugram and Manesar, Gurgaon, Haryana.",Ertiga-2012,Maruti Suzuki,Diesel,63905,56016.4054098609,4847.259849741636
+317,2019,317,"Becharaji, Mehsana, Gujarat.",S-Cross-2015,Maruti Suzuki,Petrol,46134,71605.77601646818,-1009.558394611299
+318,2017,318,"Becharaji, Mehsana, Gujarat.",S-Presso-2019,Maruti Suzuki,Petrol,20136,69081.87356033975,6425.98585208869
+319,2009,319,"Becharaji, Mehsana, Gujarat.",XL6-2019,Maruti Suzuki,Petrol,17293,6708.788233051541,-2169.77720421284
+320,2015,320,"Becharaji, Mehsana, Gujarat.",Wagon R-1999,Maruti Suzuki,Diesel,29918,19770.18093503604,59.475376434894315
+321,2020,321,"Gurugram and Manesar, Gurgaon, Haryana.",Swift-2005,Maruti Suzuki,Diesel,75004,6730.04777166716,4639.1472964686645
+322,2009,322,"Becharaji, Mehsana, Gujarat.",Dzire-2017,Maruti Suzuki,Petrol,53607,78973.03799717083,-1259.827617678847
+323,2007,323,"Gurugram and Manesar, Gurgaon, Haryana.",Dzire-2017,Maruti Suzuki,Petrol,93693,48858.12939533302,-364.3312837230678
+324,2015,324,"Gurugram and Manesar, Gurgaon, Haryana.",XL6-2019,Maruti Suzuki,Petrol,13164,14421.385110582816,4701.638076169301
+325,2008,325,"Gurugram and Manesar, Gurgaon, Haryana.",S-Cross-2015,Maruti Suzuki,Petrol,35337,29233.7866585956,4025.6146002774267
+326,2009,326,"Gurugram and Manesar, Gurgaon, Haryana.",S-Presso-2019,Maruti Suzuki,Diesel,24482,4956.992008643441,-2190.0534930406293
+327,2018,327,"Becharaji, Mehsana, Gujarat.",Vitara Brezza-2016,Maruti Suzuki,Diesel,90821,58180.04245311847,-1089.9015948990984
+328,2013,328,"Becharaji, Mehsana, Gujarat.",S-Presso-2019,Maruti Suzuki,Petrol,73857,39539.20124841847,1723.9951744423834
+329,2016,329,"Becharaji, Mehsana, Gujarat.",Dzire-2017,Maruti Suzuki,Diesel,88424,13023.257052448685,-1456.330391758346
+330,2008,330,"Gurugram and Manesar, Gurgaon, Haryana.",Wagon R-1999,Maruti Suzuki,Petrol,84930,64419.106825179486,-1869.308195344382
+331,2017,331,"Gurugram and Manesar, Gurgaon, Haryana.",S-Cross-2015,Maruti Suzuki,Diesel,65523,22852.165430347184,2717.5504361335825
+332,2006,332,"Gurugram and Manesar, Gurgaon, Haryana.",Baleno-2015,Maruti Suzuki,Diesel,27444,26893.74819208981,4658.45103496423
+333,2019,333,"Gurugram and Manesar, Gurgaon, Haryana.",Ertiga-2012,Maruti Suzuki,Petrol,18803,14724.363139130426,3358.199611421509
+334,2017,334,"Gurugram and Manesar, Gurgaon, Haryana.",Swift-2005,Maruti Suzuki,Diesel,44744,58647.05640232832,-1858.511807033583
+335,2014,335,"Gurugram and Manesar, Gurgaon, Haryana.",XL6-2019,Maruti Suzuki,Diesel,82510,39304.39776616977,1728.7513973121622
+336,2018,336,"Gurugram and Manesar, Gurgaon, Haryana.",Celerio-2014,Maruti Suzuki,Diesel,83748,78422.73885851166,940.9742833032915
+337,2005,337,"Becharaji, Mehsana, Gujarat.",Baleno-2015,Maruti Suzuki,Diesel,46472,51270.47439911854,2340.3886946672055
+338,2009,338,"Becharaji, Mehsana, Gujarat.",Vitara Brezza-2016,Maruti Suzuki,Petrol,18417,58058.89284796087,1018.3602443845616
+339,2014,339,"Becharaji, Mehsana, Gujarat.",Swift-2005,Maruti Suzuki,Diesel,73771,75868.31886746366,2269.2878448936817
+340,2007,340,"Gurugram and Manesar, Gurgaon, Haryana.",Swift-2005,Maruti Suzuki,Diesel,77386,72896.13259804268,4087.0499204223206
+341,2013,341,"Becharaji, Mehsana, Gujarat.",S-Presso-2019,Maruti Suzuki,Diesel,67423,30816.72658220734,2376.412765555172
+342,2016,342,"Gurugram and Manesar, Gurgaon, Haryana.",Swift-2005,Maruti Suzuki,Diesel,82755,48366.33291684976,5742.672445318327
+343,2010,343,"Gurugram and Manesar, Gurgaon, Haryana.",Ciaz-2014,Maruti Suzuki,Diesel,84948,73152.14087679662,-1051.0681283572478
+344,2006,344,"Becharaji, Mehsana, Gujarat.",S-Presso-2019,Maruti Suzuki,Diesel,62907,77611.02490592864,6087.075238466261
+345,2021,345,"Gurugram and Manesar, Gurgaon, Haryana.",Celerio-2014,Maruti Suzuki,Petrol,53947,63538.46435787962,-2116.947556606274
+346,2011,346,"Becharaji, Mehsana, Gujarat.",Vitara Brezza-2016,Maruti Suzuki,Petrol,76547,51733.50586112743,3183.9833565582967
+347,2009,347,"Becharaji, Mehsana, Gujarat.",Celerio-2014,Maruti Suzuki,Petrol,38933,10697.272483842404,-1255.7495683253017
+348,2005,348,"Becharaji, Mehsana, Gujarat.",S-Presso-2019,Maruti Suzuki,Diesel,51507,51271.59397179782,-2283.20583837827
+349,2012,349,"Gurugram and Manesar, Gurgaon, Haryana.",S-Presso-2019,Maruti Suzuki,Diesel,54975,72257.8022509286,749.3767426092509
+350,2007,350,"Becharaji, Mehsana, Gujarat.",Ignis-2017,Maruti Suzuki,Petrol,24510,60572.47000019329,5298.5211278889965
+351,2021,351,"Becharaji, Mehsana, Gujarat.",Dzire-2017,Maruti Suzuki,Petrol,23590,71866.65095584636,5502.240079334175
+352,2017,352,"Gurugram and Manesar, Gurgaon, Haryana.",Wagon R-1999,Maruti Suzuki,Petrol,97282,10183.994435584236,5889.597579181129
+353,2019,353,"Becharaji, Mehsana, Gujarat.",Ciaz-2014,Maruti Suzuki,Petrol,84074,44480.09648755766,6621.544612351239
+354,2013,354,"Becharaji, Mehsana, Gujarat.",Ertiga-2012,Maruti Suzuki,Diesel,39803,77554.54999089007,-822.0922206984444
+355,2007,355,"Gurugram and Manesar, Gurgaon, Haryana.",Ertiga-2012,Maruti Suzuki,Petrol,73285,34009.38627774506,907.6017204666064
+356,2011,356,"Becharaji, Mehsana, Gujarat.",Celerio-2014,Maruti Suzuki,Petrol,59328,71082.28723198675,6199.753956818071
+357,2005,357,"Becharaji, Mehsana, Gujarat.",Wagon R-1999,Maruti Suzuki,Petrol,88460,7721.056039993373,-1001.3267959364514
+358,2018,358,"Becharaji, Mehsana, Gujarat.",XL6-2019,Maruti Suzuki,Petrol,30967,34049.86810292832,3295.7863166908155
+359,2010,359,"Becharaji, Mehsana, Gujarat.",S-Presso-2019,Maruti Suzuki,Petrol,82023,24819.44691034518,-1074.1316854523204
+360,2018,360,"Becharaji, Mehsana, Gujarat.",Celerio-2014,Maruti Suzuki,Diesel,63998,7627.4996386250805,-436.8581548932052
+361,2013,361,"Becharaji, Mehsana, Gujarat.",Swift-2005,Maruti Suzuki,Petrol,38191,8658.52565311017,783.097071650539
+362,2018,362,"Gurugram and Manesar, Gurgaon, Haryana.",S-Cross-2015,Maruti Suzuki,Petrol,11623,17464.039670310634,-1678.259411487963
+363,2009,363,"Gurugram and Manesar, Gurgaon, Haryana.",Ignis-2017,Maruti Suzuki,Petrol,39210,10472.179226290402,5567.202212444923
+364,2008,364,"Gurugram and Manesar, Gurgaon, Haryana.",Baleno-2015,Maruti Suzuki,Petrol,68378,13201.542563706145,5478.182973487222
+365,2017,365,"Becharaji, Mehsana, Gujarat.",Baleno-2015,Maruti Suzuki,Diesel,92866,75549.75391257378,5858.451595022045
+366,2014,366,"Becharaji, Mehsana, Gujarat.",Ignis-2017,Maruti Suzuki,Diesel,60535,78060.12841357761,590.1377811484622
+367,2014,367,"Becharaji, Mehsana, Gujarat.",Alto-2000,Maruti Suzuki,Diesel,80770,45317.0546872746,6134.067478785602
+368,2021,368,"Gurugram and Manesar, Gurgaon, Haryana.",Vitara Brezza-2016,Maruti Suzuki,Diesel,70242,75028.68167187074,5395.817779383713
+369,2014,369,"Gurugram and Manesar, Gurgaon, Haryana.",Swift-2005,Maruti Suzuki,Diesel,25023,19615.40319098273,1431.7605957554965
+370,2021,370,"Becharaji, Mehsana, Gujarat.",S-Cross-2015,Maruti Suzuki,Petrol,90438,23827.44955225842,-1237.1326230635357
+371,2005,371,"Becharaji, Mehsana, Gujarat.",Wagon R-1999,Maruti Suzuki,Diesel,26386,31808.589826108924,4580.359484792772
+372,2016,372,"Becharaji, Mehsana, Gujarat.",Baleno-2015,Maruti Suzuki,Petrol,15818,45031.8297916674,-413.4846168538661
+373,2021,373,"Becharaji, Mehsana, Gujarat.",S-Cross-2015,Maruti Suzuki,Diesel,51931,77331.8161256749,744.3453403089165
+374,2010,374,"Gurugram and Manesar, Gurgaon, Haryana.",Swift-2005,Maruti Suzuki,Petrol,50932,42711.79329260493,-1847.5599151140723
+375,2019,375,"Becharaji, Mehsana, Gujarat.",Alto-2000,Maruti Suzuki,Diesel,50524,60945.71411456554,-1274.8965407094192
+376,2014,376,"Becharaji, Mehsana, Gujarat.",Ignis-2017,Maruti Suzuki,Petrol,19030,78655.93973036931,4011.3836375958535
+377,2018,377,"Gurugram and Manesar, Gurgaon, Haryana.",Celerio-2014,Maruti Suzuki,Diesel,16860,31578.7048363725,-90.59356272865261
+378,2006,378,"Becharaji, Mehsana, Gujarat.",Celerio-2014,Maruti Suzuki,Diesel,93315,77086.9340871633,457.8897161287964
+379,2018,379,"Gurugram and Manesar, Gurgaon, Haryana.",Ciaz-2014,Maruti Suzuki,Petrol,93581,54993.68128086902,-2083.500290500992
+380,2014,380,"Gurugram and Manesar, Gurgaon, Haryana.",Ciaz-2014,Maruti Suzuki,Diesel,31753,30690.387975838392,2666.7235220623215
+381,2006,381,"Becharaji, Mehsana, Gujarat.",Celerio-2014,Maruti Suzuki,Petrol,61545,31064.665234401276,-202.12476075767336
+382,2011,382,"Gurugram and Manesar, Gurgaon, Haryana.",Celerio-2014,Maruti Suzuki,Diesel,24583,74549.28384189293,576.1064222730361
+383,2009,383,"Becharaji, Mehsana, Gujarat.",Vitara Brezza-2016,Maruti Suzuki,Diesel,88953,78269.14730293404,3565.4162898117866
+384,2021,384,"Becharaji, Mehsana, Gujarat.",Ciaz-2014,Maruti Suzuki,Petrol,83345,39034.73947756855,4784.855060441657
+385,2016,385,"Becharaji, Mehsana, Gujarat.",Celerio-2014,Maruti Suzuki,Diesel,34437,71680.55349592109,2012.662018662615
+386,2016,386,"Becharaji, Mehsana, Gujarat.",S-Cross-2015,Maruti Suzuki,Petrol,61692,25096.98613702014,4236.1370021207
+387,2020,387,"Becharaji, Mehsana, Gujarat.",S-Presso-2019,Maruti Suzuki,Diesel,82533,31878.197423611182,-179.2151726982538
+388,2012,388,"Becharaji, Mehsana, Gujarat.",Ertiga-2012,Maruti Suzuki,Petrol,23408,52965.411418505595,5091.891760886572
+389,2012,389,"Gurugram and Manesar, Gurgaon, Haryana.",S-Cross-2015,Maruti Suzuki,Diesel,57977,65437.2329867686,6937.877231497885
+390,2008,390,"Becharaji, Mehsana, Gujarat.",Baleno-2015,Maruti Suzuki,Petrol,40334,35071.94851478237,6799.690523374669
+391,2014,391,"Gurugram and Manesar, Gurgaon, Haryana.",Alto-2000,Maruti Suzuki,Petrol,20316,31105.14890943938,3920.3301426833423
+392,2016,392,"Becharaji, Mehsana, Gujarat.",Ignis-2017,Maruti Suzuki,Petrol,92923,48077.93996167705,1746.2337827356396
+393,2011,393,"Gurugram and Manesar, Gurgaon, Haryana.",Ertiga-2012,Maruti Suzuki,Diesel,94909,6644.479327823605,-1981.348799750275
+394,2015,394,"Becharaji, Mehsana, Gujarat.",S-Cross-2015,Maruti Suzuki,Diesel,88047,33766.80851532915,1802.0485033966906
+395,2008,395,"Becharaji, Mehsana, Gujarat.",Ciaz-2014,Maruti Suzuki,Petrol,16647,36337.29302667567,3002.0703680666593
+396,2020,396,"Gurugram and Manesar, Gurgaon, Haryana.",S-Presso-2019,Maruti Suzuki,Petrol,50651,45546.04539391736,999.0229150389714
+397,2007,397,"Gurugram and Manesar, Gurgaon, Haryana.",Vitara Brezza-2016,Maruti Suzuki,Petrol,98767,5288.121255967765,-294.8335798541825
+398,2017,398,"Gurugram and Manesar, Gurgaon, Haryana.",Swift-2005,Maruti Suzuki,Petrol,23687,47026.01721980462,6047.532770265232
+399,2010,399,"Becharaji, Mehsana, Gujarat.",Vitara Brezza-2016,Maruti Suzuki,Petrol,82712,55451.067836551396,3196.7770109755265
+400,2007,400,"Gurugram and Manesar, Gurgaon, Haryana.",Celerio-2014,Maruti Suzuki,Petrol,64507,22595.74656641991,3183.413411153151
+401,2005,401,"Becharaji, Mehsana, Gujarat.",Dzire-2017,Maruti Suzuki,Diesel,34698,66646.71817301173,5027.896359303018
+402,2013,402,"Becharaji, Mehsana, Gujarat.",Wagon R-1999,Maruti Suzuki,Diesel,47332,38582.74870049129,6056.037998353577
+403,2005,403,"Becharaji, Mehsana, Gujarat.",Ciaz-2014,Maruti Suzuki,Petrol,76680,77856.13319555327,6336.271813272131
+404,2009,404,"Gurugram and Manesar, Gurgaon, Haryana.",Swift-2005,Maruti Suzuki,Diesel,45698,65005.350533209574,4796.480339036153
+405,2010,405,"Gurugram and Manesar, Gurgaon, Haryana.",Swift-2005,Maruti Suzuki,Petrol,31004,57456.04531429196,838.8405617060198
+406,2011,406,"Becharaji, Mehsana, Gujarat.",Ignis-2017,Maruti Suzuki,Diesel,21175,56442.77415871002,3879.712859449948
+407,2009,407,"Becharaji, Mehsana, Gujarat.",Baleno-2015,Maruti Suzuki,Diesel,35185,23980.182294135047,5439.937526610845
+408,2019,408,"Gurugram and Manesar, Gurgaon, Haryana.",Celerio-2014,Maruti Suzuki,Diesel,71605,33765.959574488,2814.39346644974
+409,2008,409,"Becharaji, Mehsana, Gujarat.",Alto-2000,Maruti Suzuki,Petrol,42410,49079.2467831664,4883.900333835837
+410,2008,410,"Becharaji, Mehsana, Gujarat.",Baleno-2015,Maruti Suzuki,Petrol,36686,65605.26081184176,-1042.6632045181636
+411,2012,411,"Becharaji, Mehsana, Gujarat.",Ciaz-2014,Maruti Suzuki,Petrol,84012,11020.49769115165,-2336.752629407018
+412,2015,412,"Becharaji, Mehsana, Gujarat.",XL6-2019,Maruti Suzuki,Petrol,14837,30570.16431450827,4951.277012502089
+413,2010,413,"Becharaji, Mehsana, Gujarat.",Ciaz-2014,Maruti Suzuki,Petrol,81563,54754.21358401882,7075.34266957975
+414,2007,414,"Becharaji, Mehsana, Gujarat.",S-Presso-2019,Maruti Suzuki,Petrol,67234,68043.05323849291,381.6217043801021
+415,2016,415,"Becharaji, Mehsana, Gujarat.",Celerio-2014,Maruti Suzuki,Diesel,37257,12392.387873431453,80.41280294587023
+416,2017,416,"Gurugram and Manesar, Gurgaon, Haryana.",S-Presso-2019,Maruti Suzuki,Petrol,95385,30043.577067494392,2053.7278454578
+417,2009,417,"Becharaji, Mehsana, Gujarat.",Baleno-2015,Maruti Suzuki,Diesel,41568,65988.26116914867,-1826.9079365718378
+418,2014,418,"Becharaji, Mehsana, Gujarat.",Swift-2005,Maruti Suzuki,Petrol,48766,8212.352193531638,6953.165505000314
+419,2014,419,"Becharaji, Mehsana, Gujarat.",Baleno-2015,Maruti Suzuki,Petrol,86915,27882.161453916393,2788.959514629222
+420,2011,420,"Becharaji, Mehsana, Gujarat.",Baleno-2015,Maruti Suzuki,Petrol,94302,35650.440502889534,2780.706231757207
+421,2008,421,"Gurugram and Manesar, Gurgaon, Haryana.",S-Cross-2015,Maruti Suzuki,Diesel,77672,9051.6447631887,4125.006521916692
+422,2020,422,"Becharaji, Mehsana, Gujarat.",Dzire-2017,Maruti Suzuki,Petrol,82679,35278.624636604705,6686.096562710301
+423,2008,423,"Gurugram and Manesar, Gurgaon, Haryana.",Ertiga-2012,Maruti Suzuki,Petrol,28210,41018.412063492746,3147.9091359107497
+424,2019,424,"Becharaji, Mehsana, Gujarat.",Alto-2000,Maruti Suzuki,Diesel,94173,3564.3621036525124,3903.721181938892
+425,2017,425,"Becharaji, Mehsana, Gujarat.",Vitara Brezza-2016,Maruti Suzuki,Diesel,42095,6711.561903008358,-1509.4090282664129
+426,2013,426,"Gurugram and Manesar, Gurgaon, Haryana.",Dzire-2017,Maruti Suzuki,Diesel,16487,18823.088970369434,-2071.167401061448
+427,2021,427,"Gurugram and Manesar, Gurgaon, Haryana.",Dzire-2017,Maruti Suzuki,Petrol,84165,58752.488981059694,2820.9408128051937
+428,2020,428,"Becharaji, Mehsana, Gujarat.",Ciaz-2014,Maruti Suzuki,Diesel,13625,13408.335145584146,-657.3508388182988
+429,2015,429,"Gurugram and Manesar, Gurgaon, Haryana.",S-Presso-2019,Maruti Suzuki,Diesel,50815,51941.44387210182,871.6423062399599
+430,2019,430,"Becharaji, Mehsana, Gujarat.",Ciaz-2014,Maruti Suzuki,Diesel,62527,77356.95904329818,6695.547233273197
+431,2009,431,"Becharaji, Mehsana, Gujarat.",S-Cross-2015,Maruti Suzuki,Diesel,92727,21230.984994832932,6848.9858802973795
+432,2020,432,"Becharaji, Mehsana, Gujarat.",Swift-2005,Maruti Suzuki,Petrol,89567,37018.81701380847,1090.3505864151816
+433,2016,433,"Becharaji, Mehsana, Gujarat.",Ciaz-2014,Maruti Suzuki,Petrol,15292,53728.875215649365,3068.328557686964
+434,2019,434,"Gurugram and Manesar, Gurgaon, Haryana.",S-Cross-2015,Maruti Suzuki,Diesel,56069,67325.97772763284,5491.022642200512
+435,2012,435,"Gurugram and Manesar, Gurgaon, Haryana.",Baleno-2015,Maruti Suzuki,Petrol,40037,37931.309837138964,-2390.368886252475
+436,2015,436,"Gurugram and Manesar, Gurgaon, Haryana.",Baleno-2015,Maruti Suzuki,Petrol,89316,15587.549585341172,6205.785125009714
+437,2008,437,"Becharaji, Mehsana, Gujarat.",Wagon R-1999,Maruti Suzuki,Diesel,16998,9990.381512267515,1014.2211501799848
+438,2020,438,"Becharaji, Mehsana, Gujarat.",Swift-2005,Maruti Suzuki,Petrol,26124,33896.19467419009,2758.585224223717
+439,2017,439,"Gurugram and Manesar, Gurgaon, Haryana.",Baleno-2015,Maruti Suzuki,Petrol,54762,30246.362566833028,-1618.5247870781066
+440,2015,440,"Becharaji, Mehsana, Gujarat.",S-Presso-2019,Maruti Suzuki,Diesel,37101,47604.78989933619,4391.289319090394
+441,2018,441,"Becharaji, Mehsana, Gujarat.",Wagon R-1999,Maruti Suzuki,Diesel,99962,20338.136033706538,1347.0694872519257
+442,2020,442,"Becharaji, Mehsana, Gujarat.",Ertiga-2012,Maruti Suzuki,Diesel,77337,71271.71596748085,-2354.5210039887734
+443,2006,443,"Becharaji, Mehsana, Gujarat.",Celerio-2014,Maruti Suzuki,Diesel,66558,25275.732394716582,2082.6312636803323
+444,2008,444,"Gurugram and Manesar, Gurgaon, Haryana.",Alto-2000,Maruti Suzuki,Diesel,36045,3554.894555132234,109.29251913756025
+445,2011,445,"Gurugram and Manesar, Gurgaon, Haryana.",Ertiga-2012,Maruti Suzuki,Petrol,34512,23925.995140072893,2343.363604421458
+446,2012,446,"Becharaji, Mehsana, Gujarat.",Swift-2005,Maruti Suzuki,Diesel,34132,11774.003518634716,-576.6694466994777
+447,2008,447,"Becharaji, Mehsana, Gujarat.",Wagon R-1999,Maruti Suzuki,Diesel,19152,31782.21861040876,-2252.746184464904
+448,2005,448,"Becharaji, Mehsana, Gujarat.",Ciaz-2014,Maruti Suzuki,Diesel,95278,67908.11777233958,4773.641575975852
+449,2021,449,"Becharaji, Mehsana, Gujarat.",XL6-2019,Maruti Suzuki,Petrol,30858,26961.512687071994,468.84658574983087
+450,2020,450,"Becharaji, Mehsana, Gujarat.",Alto-2000,Maruti Suzuki,Petrol,98951,21829.509417155557,2391.311318915954
+451,2005,451,"Gurugram and Manesar, Gurgaon, Haryana.",Ciaz-2014,Maruti Suzuki,Petrol,27473,42231.95186485424,1929.4083904301606
+452,2008,452,"Becharaji, Mehsana, Gujarat.",Ciaz-2014,Maruti Suzuki,Diesel,98627,59007.540410743524,1807.1998673947
+453,2019,453,"Gurugram and Manesar, Gurgaon, Haryana.",Alto-2000,Maruti Suzuki,Diesel,16916,19675.663370419505,-99.90102386203807
+454,2005,454,"Gurugram and Manesar, Gurgaon, Haryana.",Wagon R-1999,Maruti Suzuki,Petrol,87025,28698.339616214835,-171.33877802444704
+455,2019,455,"Gurugram and Manesar, Gurgaon, Haryana.",Ciaz-2014,Maruti Suzuki,Petrol,23131,18822.919447406384,6525.031880063991
+456,2006,456,"Becharaji, Mehsana, Gujarat.",Dzire-2017,Maruti Suzuki,Petrol,52798,43290.53987334125,-595.9929404983839
+457,2015,457,"Gurugram and Manesar, Gurgaon, Haryana.",Swift-2005,Maruti Suzuki,Petrol,87636,65265.89011646696,5414.111595755219
+458,2013,458,"Gurugram and Manesar, Gurgaon, Haryana.",Ignis-2017,Maruti Suzuki,Petrol,52477,45657.91232448186,4067.362638072369
+459,2008,459,"Gurugram and Manesar, Gurgaon, Haryana.",Ignis-2017,Maruti Suzuki,Petrol,40553,72302.35587839226,4401.315618484938
+460,2018,460,"Becharaji, Mehsana, Gujarat.",Swift-2005,Maruti Suzuki,Petrol,74281,75831.4170082106,6254.964140034477
+461,2006,461,"Gurugram and Manesar, Gurgaon, Haryana.",Celerio-2014,Maruti Suzuki,Diesel,71611,21266.662767943333,520.741047664374
+462,2010,462,"Becharaji, Mehsana, Gujarat.",Ertiga-2012,Maruti Suzuki,Petrol,73639,61612.832584777636,6119.648713867375
+463,2015,463,"Becharaji, Mehsana, Gujarat.",Celerio-2014,Maruti Suzuki,Petrol,92975,68663.7147949783,5198.4992375327365
+464,2008,464,"Gurugram and Manesar, Gurgaon, Haryana.",XL6-2019,Maruti Suzuki,Diesel,88541,21102.639604377815,5939.164579573475
+465,2019,465,"Becharaji, Mehsana, Gujarat.",Alto-2000,Maruti Suzuki,Diesel,42252,34922.480257653886,228.7795326428277
+466,2021,466,"Gurugram and Manesar, Gurgaon, Haryana.",Ciaz-2014,Maruti Suzuki,Petrol,23992,4706.996388949153,5518.526628115925
+467,2005,467,"Becharaji, Mehsana, Gujarat.",S-Presso-2019,Maruti Suzuki,Diesel,41675,54835.29831686659,3672.920335967845
+468,2011,468,"Gurugram and Manesar, Gurgaon, Haryana.",Dzire-2017,Maruti Suzuki,Petrol,50885,59650.2290963132,4791.838128656253
+469,2011,469,"Gurugram and Manesar, Gurgaon, Haryana.",Swift-2005,Maruti Suzuki,Petrol,75869,24248.49491768113,2976.9003414098834
+470,2020,470,"Gurugram and Manesar, Gurgaon, Haryana.",Swift-2005,Maruti Suzuki,Petrol,23005,32329.876700874476,2759.1270354834305
+471,2008,471,"Becharaji, Mehsana, Gujarat.",Alto-2000,Maruti Suzuki,Petrol,15604,9390.27791789942,2948.7178750614858
+472,2008,472,"Gurugram and Manesar, Gurgaon, Haryana.",Baleno-2015,Maruti Suzuki,Diesel,26971,12954.309506377938,1457.810853629796
+473,2021,473,"Gurugram and Manesar, Gurgaon, Haryana.",Alto-2000,Maruti Suzuki,Diesel,32779,71821.89101061822,-1155.7168864931286
+474,2009,474,"Gurugram and Manesar, Gurgaon, Haryana.",Baleno-2015,Maruti Suzuki,Petrol,84847,30185.82049642557,-1861.287023989712
+475,2011,475,"Gurugram and Manesar, Gurgaon, Haryana.",XL6-2019,Maruti Suzuki,Petrol,15383,28950.296997385394,2351.1583265344416
+476,2015,476,"Gurugram and Manesar, Gurgaon, Haryana.",XL6-2019,Maruti Suzuki,Petrol,76300,30154.57434624241,-2102.7552486830937
+477,2006,477,"Gurugram and Manesar, Gurgaon, Haryana.",Alto-2000,Maruti Suzuki,Petrol,33237,45795.81050206188,1372.6983640858261
+478,2010,478,"Gurugram and Manesar, Gurgaon, Haryana.",Ciaz-2014,Maruti Suzuki,Petrol,64133,32194.252684833238,4092.103419251701
+479,2013,479,"Gurugram and Manesar, Gurgaon, Haryana.",Ignis-2017,Maruti Suzuki,Petrol,34526,53205.93022692555,-1139.2631016979205
+480,2010,480,"Gurugram and Manesar, Gurgaon, Haryana.",S-Presso-2019,Maruti Suzuki,Diesel,33108,32654.921109160605,3834.700591333314
+481,2017,481,"Gurugram and Manesar, Gurgaon, Haryana.",Ciaz-2014,Maruti Suzuki,Diesel,83936,44407.016326694895,1064.1276722933844
+482,2016,482,"Becharaji, Mehsana, Gujarat.",Alto-2000,Maruti Suzuki,Petrol,15081,9328.494394892083,2232.1982839375487
+483,2021,483,"Gurugram and Manesar, Gurgaon, Haryana.",Ertiga-2012,Maruti Suzuki,Diesel,53493,65479.07411660902,6026.152508371002
+484,2018,484,"Becharaji, Mehsana, Gujarat.",Alto-2000,Maruti Suzuki,Petrol,69771,64110.23878617312,2211.82624030641
+485,2007,485,"Gurugram and Manesar, Gurgaon, Haryana.",Ignis-2017,Maruti Suzuki,Petrol,54795,22736.175748637226,871.3040340093803
+486,2009,486,"Becharaji, Mehsana, Gujarat.",Ignis-2017,Maruti Suzuki,Petrol,56326,51432.22498858592,744.5238414602304
+487,2009,487,"Becharaji, Mehsana, Gujarat.",Alto-2000,Maruti Suzuki,Petrol,89874,45221.57629606232,-611.9562087632783
+488,2015,488,"Becharaji, Mehsana, Gujarat.",Alto-2000,Maruti Suzuki,Petrol,56439,56661.48096585139,7182.0776828522885
+489,2006,489,"Gurugram and Manesar, Gurgaon, Haryana.",Ertiga-2012,Maruti Suzuki,Diesel,17321,7582.452765634318,-1687.2404655544137
+490,2008,490,"Becharaji, Mehsana, Gujarat.",Ignis-2017,Maruti Suzuki,Petrol,23712,64193.74366799925,-1294.9651477800385
+491,2013,491,"Gurugram and Manesar, Gurgaon, Haryana.",Wagon R-1999,Maruti Suzuki,Diesel,45706,68571.43327115949,7046.628160604063
+492,2014,492,"Gurugram and Manesar, Gurgaon, Haryana.",Baleno-2015,Maruti Suzuki,Diesel,96541,41414.56460471927,-869.4809593493251
+493,2018,493,"Gurugram and Manesar, Gurgaon, Haryana.",XL6-2019,Maruti Suzuki,Diesel,36191,11394.328937587492,2035.129862450528
+494,2007,494,"Gurugram and Manesar, Gurgaon, Haryana.",S-Cross-2015,Maruti Suzuki,Petrol,44339,68660.29895622791,1207.1363308858877
+495,2006,495,"Gurugram and Manesar, Gurgaon, Haryana.",Alto-2000,Maruti Suzuki,Petrol,11564,30369.258643441914,5560.439792931264
+496,2017,496,"Becharaji, Mehsana, Gujarat.",S-Cross-2015,Maruti Suzuki,Petrol,10919,66076.6804266403,2678.3709139068033
+497,2021,497,"Becharaji, Mehsana, Gujarat.",XL6-2019,Maruti Suzuki,Diesel,98931,46026.04622330272,6706.715576685367
+498,2008,498,"Becharaji, Mehsana, Gujarat.",Wagon R-1999,Maruti Suzuki,Petrol,52021,7804.60214772084,1689.074580258818
+499,2021,499,"Becharaji, Mehsana, Gujarat.",Alto-2000,Maruti Suzuki,Diesel,85987,25686.41719009867,2945.2046002264433
